@@ -1,22 +1,75 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+#    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+#    conference_short: MICCAI
+#    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+#    code: https://github.com/MrGiovanni/ContinualLearning
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+#    image: ./assets/img/teaser_example_2.png
+#    notes: Early Accept
+
+#  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+#    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+#    conference_short: CVPR
+#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    notes: Oral Presentation
+#    image: ./assets/img/teaser_example.png
+
+  - title: "Few-shot parameter-efficient fine-tuning for volumetric organ segmentation"
+    authors: <strong>Julio Silva-Rodriguez</strong>, Jose Dolz, Ismail Ben Ayed
+    conference_short: MICCAI-MedAGI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention - Workshop on Foundation Models for General Medical AI <strong>(MICCAI-MedAGI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2303.17051.pdf
+    code: https://github.com/jusiro/fewshot-finetuning
+    page: https://github.com/jusiro/fewshot-finetuning
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_miccai_fewshot_segm_23.png
+
+  - title: "Constrained unsupervised anomaly segmentation"
+    authors: <strong>Julio Silva-Rodriguez</strong>, Valery Naranjo, Jose Dolz
+    conference_short: MedIA
+    conference: Medical Image Analysis <strong>(MedIA)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2203.01671.pdf
+    code: https://github.com/jusiro/constrained_anomaly_segmentation
+    page: https://github.com/jusiro/constrained_anomaly_segmentation
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/teaser_media_uas_22.png
+
+  - title: "Looking at the whole picture: constrained unsupervised anomaly segmentation"
+    authors: <strong>Julio Silva-Rodriguez</strong>, Valery Naranjo, Jose Dolz
+    conference_short: BMVC
+    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2109.00482.pdf
+    code: https://github.com/jusiro/constrained_anomaly_segmentation
+    page: https://www.bmvc2021-virtualconference.com/conference/papers/paper_1011.html
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teser_bmvc_2021.png
+
+  - title: "Self-learning for weakly supervised Gleason grading of local patterns"
+    authors: <strong>Julio Silva-Rodriguez</strong>, Adrian Colomer, Jose Dolz, Valery Naranjo
+    conference_short: JBHI
+    conference: IEE-Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2105.10420.pdf
+    code: https://github.com/jusiro/mil_histology
+    page: https://github.com/jusiro/mil_histology
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/teaser_jbhi_21.png
+
+  - title: "Going deeper through the Gleason scoring scale: An automatic end-to-end system for histology prostate grading and cribriform pattern detection"
+    authors: <strong>Julio Silva-Rodriguez</strong>, Adrian Colomer, Maria A. Sales, Rafael Molina, Valery Naranjo
+    conference_short: CMPB
+    conference: Computer Methods and Programs in Biomedicine <strong>(CMPB)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2105.10490.pdf
+    code: https://github.com/cvblab/gleason_grading_cmpb
+    page: https://data.mendeley.com/datasets/9xxm58dvs3/2
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/teaser_cmpb_20.png
