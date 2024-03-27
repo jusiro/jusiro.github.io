@@ -1,6 +1,6 @@
 main:
 
-  - title: "Few-shot parameter-efficient fine-tuning for volumetric organ segmentation"
+  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
     authors: <strong>Julio Silva-Rodriguez</strong>, Jose Dolz, Ismail Ben Ayed
     conference_short: MICCAI-MedAGI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention - Workshop on Foundation Models for General Medical AI <strong>(MICCAI-MedAGI)</strong>, 2023.
@@ -9,6 +9,7 @@ main:
     page: https://github.com/jusiro/fewshot-finetuning
     notes: Oral Presentation
     image: ./assets/img/teaser_miccai_fewshot_segm_23.png
+    bibtex: ./assets/bibtexts/medagi23.txt
 
   - title: "Constrained unsupervised anomaly segmentation"
     authors: <strong>Julio Silva-Rodriguez</strong>, Valery Naranjo, Jose Dolz

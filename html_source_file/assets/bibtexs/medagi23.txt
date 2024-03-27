@@ -1,0 +1,6 @@
+@inproceedings{silvaRodriguez2023fseft,
+    title={Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation},
+    author={Julio Silva-Rodr\'iguez and Jose Dolz and Ismail Ben Ayed},
+    booktitle={MICCAI Workshop on foundation models for general medical AI (MedAGI)},
+    year={2023}
+}
