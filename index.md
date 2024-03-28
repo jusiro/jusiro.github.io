@@ -38,6 +38,9 @@ studying novel strategies for few-shot, parameter-efficient adaptation to downst
 <div style="height: 140px; overflow: auto;">
     <ul>
         <li>
+            <strong>[Mar. 2024]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR 2024.
+        </li> 
+        <li>
             <strong>[Aug. 2023]</strong> Our paper about few-shot fine-tuning is accepted to MICCAI-MedAGI 2023.
         </li> 
         <li>
@@ -122,5 +125,5 @@ studying novel strategies for few-shot, parameter-efficient adaptation to downst
 
 <p><center>
     <br>
-    Last updated: August 2023
+    Last updated: March 2024
 </center></p>

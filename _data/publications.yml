@@ -1,5 +1,15 @@
 main:
 
+  - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
+    authors: <strong>Julio Silva-Rodriguez</strong>, Sina Hajimiri, Jose Dolz, Ismail Ben Ayed
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition<strong>(CVPR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2312.12730.pdf
+    code: https://github.com/jusiro/CLAP
+    page: https://github.com/jusiro/CLAP
+    image: ./assets/img/clap_teaser.png
+    bibtex: ./assets/bibtexs/clap
+
   - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
     authors: <strong>Julio Silva-Rodriguez</strong>, Jose Dolz, Ismail Ben Ayed
     conference_short: MICCAI-MedAGI
@@ -9,7 +19,7 @@ main:
     page: https://github.com/jusiro/fewshot-finetuning
     notes: Oral Presentation
     image: ./assets/img/teaser_miccai_fewshot_segm_23.png
-    bibtex: ./assets/bibtexs/medagi23.txt
+    bibtex: ./assets/bibtexs/medagi23
 
   - title: "Constrained unsupervised anomaly segmentation"
     authors: <strong>Julio Silva-Rodriguez</strong>, Valery Naranjo, Jose Dolz
