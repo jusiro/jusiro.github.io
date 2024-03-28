@@ -8,7 +8,7 @@ main:
     code: https://github.com/jusiro/CLAP
     page: https://jusiro.github.io/projects/clap
     image: ./assets/img/clap_teaser.png
-    bibtex: ./assets/bibtexs/clap.bib.bib
+    bibtex: ./assets/bibtexs/clap.bib
 
   - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
     authors: <strong>Julio Silva-Rodriguez</strong>, Jose Dolz, Ismail Ben Ayed
@@ -19,7 +19,7 @@ main:
     page: https://github.com/jusiro/fewshot-finetuning
     notes: Oral Presentation
     image: ./assets/img/teaser_miccai_fewshot_segm_23.png
-    bibtex: ./assets/bibtexs/medagi23.bib.bib
+    bibtex: ./assets/bibtexs/medagi23.bib
 
   - title: "Constrained unsupervised anomaly segmentation"
     authors: <strong>Julio Silva-Rodriguez</strong>, Valery Naranjo, Jose Dolz
