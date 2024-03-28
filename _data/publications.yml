@@ -6,7 +6,7 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition<strong>(CVPR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.12730.pdf
     code: https://github.com/jusiro/CLAP
-    page: https://github.com/jusiro/projects/clap
+    page: https://jusiro.github.io/projects/clap
     image: ./assets/img/clap_teaser.png
     bibtex: ./assets/bibtexs/clap
 
