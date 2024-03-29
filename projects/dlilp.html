@@ -1,0 +1,204 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+
+   <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ELZW942XKQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ELZW942XKQ');
+    </script>
+
+    <meta property="og:image" content="./assets/img/dlilp_overview.png" />
+    <meta name="twitter:image" content="./assets/img/dlilp_overview.png" />
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Project page of the paper 'A Reality Check of Vision-Language Pre-training in Radiology'.">
+
+    <title>DLILP</title>
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="../assets/img/cxr.jpg" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="../assets/img/cxr.jpg" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <link href="lib/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+        <link href="lib/normalize.css" type="text/css" rel="stylesheet">
+        <script src="http://use.typekit.net/ulc1wme.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"  />
+
+    <link rel="stylesheet" href="../assets/css/style_project.css">
+
+    <script src="../assets/js/github-stars.js"></script>
+    <script type="text/javascript" src="../assets/js/jquery.js"></script>
+
+  </head>
+  <body>
+
+    <div class="wrapper">
+
+      <section>
+
+      <h2 class="project-name" style="font-weight:normal; font-size: 167%;" align="center">A Reality Check of Vision-Language Pre-training in Radiology:</h2>
+      <h2 class="project-name" style="font-weight:normal; font-size: 130%;" align="center">Have We Progressed Using Text?</h2>
+      <h3 style="font-weight:normal" align="center">
+          <a href="https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl" target="_blank">Julio Silva-Rodríguez</a> &#183;
+          <a href="https://scholar.google.es/citations?user=yHQIFFMAAAAJ&hl" target="_blank">Jose Dolz</a> &#183;
+          <a href="https://scholar.google.es/citations?user=29vyUccAAAAJ&hl" target="_blank">Ismail Ben Ayed</a>
+      </h3>
+      <h4 style="font-weight:normal;" align="center"><a href="https://liviamtl.ca/" target="_blank"><autocolor>ÉTS Montreal</autocolor></a> <font color=#000000></font></h4>
+
+      <div class="cta">
+          <a href="https://arxiv.org/pdf/2312.12730.pdf" role="button"><i class="fas fa-file-pdf"></i> Paper</a>
+          <a href="https://github.com/jusiro/DLILP/" role="button"><i class="fab fa-github"></i> Code</a>
+      </div>
+
+<h2 id="contributions">Highlights</h2>
+    <div style="text-align: justify ">
+     <!--
+    Multi-modal foundation models such as CLIP are driving vision literature for its efficient transferability
+    to downstream tasks. Driven by CLIP popularity, vision-language models (VLMs) are also paving
+    the way for building strong medical foundation models for Chest X-rays (CXRs). Many recent works, published in the
+    top vision conferences or prestigious journals, advocating a paradigm shift in radiology imaging, e.g. CONVIRT, REFERS,
+    GlorIA, MedCLIP, MedKLIP, CXR-CLIP, BioVIL, and other models, attest to this. <br>
+
+    In this context, we make the following observations/contributions:
+    -->
+        <ul>
+            <li>Current <strong>Chest X-ray (CXR) Vision-Language Models (VLMs)</strong> rely on text information coming from one unique
+                datasets, MIMIC, and struggle to incorporate label information from additional data sources (<i>e.g.</i> CheXpert, PadChest).</li>
+            <li>We challenge the status quo of current VLMs for visual comprehension of CXRs, and <strong>revisit
+                supervised pre-training, based on expert labels extracted trough NLP-based methods</strong>.</li>
+            <li>We demonstrate that such <strong>Unimodal pre-training is a largely competitive solution</strong>, able to integrate larger
+                heterogeneous data sources, and is more efficient than VLMs.</li>
+            <li>In addition, we offer a <strong>critical view of the current trends in evaluating the zero-shot generalization
+                capabilities of CXR VLMs to novel diseases</strong>, showing that these have been evaluated using overoptimistic
+                experimental settings.</li>
+            <li>Finally, we propose a novel optimization strategy, <strong>Disentangled Language-Image-Label Pre-training (DLILP),
+                to better integrate image-text-label information</strong>.</li>
+        </ul>
+    </div>
+
+<br>
+<h2 id="pitfalls">Pitfalls of Existing Pre-training Strategies</h2>
+<hr>
+    <div style="text-align: justify ">
+    Current pre-training practices need to integrate heterogeneous data sources, with text and label information. UniCL
+    loss has been recently proposed to provide a label alignment during vision-language contrastive pre-training.
+    Nevertheless, we observe that such strategy biases the vision-language representations towards the subset of
+    <i>base</i> labels considered, and does not provide any benefits over CLIP loss when evaluated on <i>novel categories</i>.
+
+    </div>
+    <br>
+
+    <center>
+    <img src="../assets/img/cxr_vlm_pitfalls.svg" width="800" class="figure-img img-responsive center-block">
+    </center>
+    <br>
+
+<br>
+<h2 id="proposed">Disentangled Language-Image-Label Pre-training (DLILP)</h2>
+<hr>
+    <div style="text-align: justify ">
+    To address the limitations of existing literature for leveraging image-text-label datasets for pre-training, we
+    propose a novel <strong>Disentangled Language-Image-Label Pre-training (DLILP)</strong> strategy. In particular,
+    we propose to <strong>incorporate image-label and image-text supervision into different subspaces of the learned
+    vision representation</strong> to avoid biasing the vision-language alignement towards the provided labels.
+    </div>
+    <br>
+
+    <center>
+    <img src="../assets/img/dlilp_overview.svg" width="800" class="figure-img img-responsive center-block">
+    </center>
+    <br>
+
+<br>
+<h2 id="results_zeroshot">Do CXR VLMs Generalize to Novel Diseases?</h2>
+<hr>
+
+    <div style="text-align: justify ">
+
+        Recent literature, i.e. MedCLIP or MedKLIP, have defended the effectiveness of vision-language pre-training
+        to generalize to unseen diseases thanks to text-driven predictions. These experiments have been typically
+        carried out in 2-class COVID classification. We provide two novel observations on this regard:
+        <ul>
+            <li>COVID description (<i>see below</i>) contains lesions that appeared in the pre-training stage, and are
+                unspecific. <strong>When evaluated on 4-class classification tasks, VLMs fail to differentiate COVID
+                from other lung conditions.</strong> </li>
+            <li><strong>Unimodal</strong>, supervised pre-trained models, can leverage <strong>visual prompts by
+                averaging clas prototypes of these findings</strong>. We observe that without using text encoder,
+                such solution gets <strong>better results than VLMs for this task</strong>.</li>
+        </ul>
+
+
+    </div>
+    <br>
+
+    <center>
+    <img src="../assets/img/covid_zeroshot.svg" width="800" class="figure-img img-responsive center-block">
+    </center>
+    <br>
+
+<br>
+<h2 id="results_few_shot">Few-Shot Linear Probing Adaptation</h2>
+<hr>
+
+    <div style="text-align: justify ">
+        We evaluate the transferability of pre-trained features on 7 downstream tasks, in the challenging
+        (<i>but potentially impactful</i>) case in which only few-shot labeled samples are available. We evaluate models
+        under different pre-training datasets, and number of shots. Results again unveil that <strong>Unimodal
+        pre-training is a robust approach, able to better integrate larger data sources than vision-language models</strong>.
+        In addition, <strong>DLILP shows improved ability to leverage both label and noisy text supervision</strong>.
+    </div>
+    <br>
+
+    <center>
+    <img src="../assets/img/dlilp_results.svg" width="800" class="figure-img img-responsive center-block">
+    </center>
+    <br>
+
+<br>
+<h2 id="citation">Citation</h2>
+<hr>
+
+    <p>Please cite our paper if it is helpful to your work:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{dlilp,
+    title={A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?},
+    author={Julio Silva-Rodr\'iguez and Jose Dolz and Ismail Ben Ayed},
+    booktitle={ArXiv Preprint},
+    year={2024}
+    }</code></pre></div></div>
+
+<br>
+<h2 id="contact">Contact</h2>
+<hr>
+
+    Please feel free to contact us: <a href="mailto:julio-jose.silva-rodriguez@etsmtl.ca" target="_blank">julio-jose.silva-rodriguez@etsmtl.ca</a>.
+    <br>
+    <br>
+
+
+
+
+      </section>
+    </div>
+    <!--
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-111540567-4', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    -->
+  </body>
+</html>

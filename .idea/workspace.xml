@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/covid_zeroshot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/cxr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/cxr_vlm_pitfalls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/dlilp_overview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/dlilp_overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/dlilp_results.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/dlilp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/clap.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/clap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/flair.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/flair.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
