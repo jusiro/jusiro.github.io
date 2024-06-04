@@ -6,7 +6,8 @@
 <ul style="margin:0 0 5px;">
 
   <li> <autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024.</autocolor></li>
-  <li><a href="https://conferences.miccai.org/2023/en/"><autocolor>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI): 2023 - 2024.</autocolor></a></li>
+  <li> <autocolor>European Conference on Computer Vision (ECCV): 2024.</autocolor></li>
+  <li><a href="https://conferences.miccai.org/2023/en/"><autocolor>Medical Image Computing and Computer-Assisted Intervention (MICCAI): 2023 - 2024.</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>

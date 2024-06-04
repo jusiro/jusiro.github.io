@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/JulioPhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/flair_pretrain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teaser_flair_small.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/services.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/juliosilva/Documents/LIVIA/Projects/DLILP"
+    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/img"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -37,6 +44,9 @@
       <recent name="$PROJECT_DIR$/projects" />
       <recent name="$PROJECT_DIR$/assets/bibtexs" />
       <recent name="$PROJECT_DIR$/html_source_file/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html_source_file/projects" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

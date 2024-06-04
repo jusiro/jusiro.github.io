@@ -6,7 +6,7 @@ email: jusiro95 (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Julio Silva-Rodriguez, Rodríguez, Deep Learning, Medical Image, Fundus, Radiology, Histology, Research, Machine Learning
+keywords: Julio Silva-Rodriguez, Rodríguez, Deep Learning, Medical Image, Fundus, Radiology, Histology, Research, Machine Learning, Foundation Models, CXRs, Multi-modal, Vision-Language
 description: J. Silva-Rodriguez academic website.
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -16,13 +16,13 @@ google_scholar: https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl
 #cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/jusiro
 linkedin: https://www.linkedin.com/in/julio-silva-rodriguez/
-#twitter: https://twitter.com/
+twitter: https://twitter.com/_jusiro
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/julio_silva.jpg
-favicon: ./assets/img/julio_silva.jpg
-favicon_dark: ./assets/img/julio_silva.jpg
+avatar: ./assets/img/JulioPhoto.jpg
+favicon: ./assets/img/JulioPhoto.jpg
+favicon_dark: ./assets/img/JulioPhoto.jpg
 preview_image: ./assets/img/teaser_webpage.svg
 
 # Footnote

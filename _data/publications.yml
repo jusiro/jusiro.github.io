@@ -21,6 +21,16 @@ main:
     image: ./assets/img/teaser_miccai_fewshot_segm_23.png
     bibtex: ./assets/bibtexs/medagi23.bib
 
+  - title: "A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision"
+    authors: <strong>Julio Silva-Rodriguez</strong>, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed
+    conference_short: ArXiv
+    conference: ArXiv Preprint, 2023.
+    pdf: https://arxiv.org/pdf/2308.07898.pdf
+    code: https://github.com/jusiro/FLAIR
+    page: https://jusiro.github.io/projects/flair
+    image: ./assets/img/teaser_flair_small.png
+    bibtex: ./assets/bibtexs/medagi23.bib
+
   - title: "Constrained unsupervised anomaly segmentation"
     authors: <strong>Julio Silva-Rodriguez</strong>, Valery Naranjo, Jose Dolz
     conference_short: MedIA
@@ -29,16 +39,6 @@ main:
     code: https://github.com/jusiro/constrained_anomaly_segmentation
     page: https://github.com/jusiro/constrained_anomaly_segmentation
     image: ./assets/img/teaser_media_uas_22.png
-
-  - title: "Looking at the whole picture: constrained unsupervised anomaly segmentation"
-    authors: <strong>Julio Silva-Rodriguez</strong>, Valery Naranjo, Jose Dolz
-    conference_short: BMVC
-    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2109.00482.pdf
-    code: https://github.com/jusiro/constrained_anomaly_segmentation
-    page: https://www.bmvc2021-virtualconference.com/conference/papers/paper_1011.html
-    notes: Oral Presentation
-    image: ./assets/img/teser_bmvc_2021.png
 
   - title: "Self-learning for weakly supervised Gleason grading of local patterns"
     authors: <strong>Julio Silva-Rodriguez</strong>, Adrian Colomer, Jose Dolz, Valery Naranjo
