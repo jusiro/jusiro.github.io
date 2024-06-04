@@ -20,9 +20,9 @@ twitter: https://twitter.com/_jusiro
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/JulioPhoto.jpg
-favicon: ./assets/img/JulioPhoto.jpg
-favicon_dark: ./assets/img/JulioPhoto.jpg
+avatar: ./assets/img/julio_silva.jpg
+favicon: ./assets/img/julio_silva.jpg
+favicon_dark: ./assets/img/julio_silva.jpg
 preview_image: ./assets/img/teaser_webpage.svg
 
 # Footnote
