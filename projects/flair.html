@@ -45,14 +45,15 @@
 
       <h2 class="project-name" style="font-weight:normal; font-size: 167%;" align="center">A Foundation LAnguage-Image model of the Retina (FLAIR)</h2>
       <h2 class="project-name" style="font-weight:normal; font-size: 130%;" align="center">Encoding expert knowledge in text supervision</h2>
-      <h4 style="font-weight:normal" align="center">
+      <h3 style="font-weight:normal" align="center">
           <a href="https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl" target="_blank">Julio Silva-Rodriguez</a><sup>1</sup> &nbsp;
           <a href="https://scholar.google.ca/citations?user=0Njg-cQAAAAJ&hl" target="_blank">Hadi Chakor</a><sup>2</sup> &nbsp;
           <a href="https://ca.linkedin.com/in/riadh-kobbi" target="_blank">Riadh Kobbi</a><sup>2</sup> &nbsp;
           <a href="https://scholar.google.es/citations?user=yHQIFFMAAAAJ&hl" target="_blank">Jose Dolz</a><sup>1</sup> &nbsp;
           <a href="https://scholar.google.es/citations?user=29vyUccAAAAJ&hl" target="_blank">Ismail Ben Ayed</a><sup>1</sup>
-      </h4>
-      <h5 style="font-weight:normal;" align="center"><sup>1</sup><a href="https://liviamtl.ca/" target="_blank"><autocolor>LIVIA - ETS Montreal</autocolor></a> &nbsp; <sup>2</sup><a href="https://www.diagnos.com/" target="_blank"><autocolor>DIAGNOS  Inc.</autocolor></a> &nbsp; <font color=#000000></font></h5>
+      </h3>
+      <h4 style="font-weight:normal;" align="center"><sup>1</sup><a href="https://www.etsmtl.ca/" target="_blank"><autocolor>ÉTS Montréal</autocolor></a> &nbsp; <sup>2</sup><a href="https://www.diagnos.com/" target="_blank"><autocolor>DIAGNOS  Inc.</autocolor></a> &nbsp; <font color=#000000></font></h4>
+      <h3 style="font-weight:normal; font-size: 167%;" align="center">Medical Image Analysis</h3>
 
       <div class="cta">
           <a href="https://arxiv.org/pdf/2308.07898.pdf" role="button"><i class="fas fa-file-pdf"></i> Paper</a>
@@ -61,7 +62,7 @@
       </div>
 
 <center>
-<img src="../assets/img/teaser_flair.png" style="background-color:white" width="800" class="figure-img img-responsive center-block">
+<img src="../assets/img/flair.png" style="background-color:white" width="800" class="figure-img img-responsive center-block">
 </center>
 <br>
 
@@ -69,7 +70,7 @@
     <div style="text-align: justify ">
         <ul>
             <li>FLAIR is a <strong>large-scale vision-language foundation model</strong> for fundus image analysis.</li>
-            <li>The model is pre-trained from a collection of <strong>37 open-access datasets, including 97 different ocular conditions</strong>.</li>
+            <li>The model is pre-trained from a collection of <strong>38 open-access datasets, including 101 different ocular conditions</strong>.</li>
             <li>Encoding <strong>expert knowledge in text descriptions</strong> (e.g. "mild diabetic retinopathy" is defined by the presence
                 of "few microaneurysms") boosts the performance of text-driven pre-training and inference, and allows
                 exploiting categorically-labelled datasets.</li>
@@ -81,28 +82,28 @@
 <h2>Abstract</h2>
 <hr>
     <div style="text-align: justify ">
-        Foundational vision-language models are currently transforming computer vision,
+
+        Foundation vision-language models are currently transforming computer vision,
         and are on the rise in medical imaging fueled by their very promising generalization
         capabilities. However, the initial attempts to transfer this new paradigm to medical
         imaging have shown less impressive performances than those observed in other domains,
-        due to the large domain shift and the complex, expert domain knowledge inherent to
+        due to the significant domain shift and the complex, expert domain knowledge inherent to
         medical-imaging tasks. Motivated by the need for domain-expert foundation models,
         we present FLAIR, a pre-trained vision-language model for universal retinal fundus
-        image understanding. To this end, we compiled 37 open-access, mostly categorical
-        fundus imaging datasets from various sources, with up to 97 different target categories
-        (i.e., pathologies) and 284, 660 images. We integrate the expert’s domain knowledge
-        in the form of descriptive textual prompts, during both pre-training and zero-shot inference,
-        enhancing the less-informative categorical supervision of the data. Such a textual
-        expert’s knowledge, which we compiled from the relevant clinical literature and community
-        standards, describes the fine-grained features of the pathologies as well as the
-        hierarchies and dependencies between them. We report comprehensive evaluations,
-        which illustrate the benefit of integrating expert knowledge and the strong generalization
-        capabilities of FLAIR under difficult scenarios with domain shifts or unseen
-        categories. When adapted with a lightweight linear probe, FLAIR outperforms fully-
-        trained, dataset-focused models, more so in the few-shot regimes. Interestingly, FLAIR
-        outperforms by a large margin more generalist, larger-scale image-language models,
-        which emphasizes the potential of embedding the experts’ domain knowledge and the limitations
-        of generalist models in medical imaging.
+        image understanding. To this end, we compiled 38 open-access, mostly categorical
+        fundus imaging datasets from various sources, with up to 101 different target conditions
+        and 288,307 images. We integrate the expert's domain knowledge in the form of descriptive
+        textual prompts, during both pre-training and zero-shot inference, enhancing the less-informative
+        categorical supervision of the data. Such a textual expert's knowledge, which we compiled from
+        the relevant clinical literature and community standards, describes the fine-grained features of
+        the pathologies as well as the hierarchies and dependencies between them. We report comprehensive
+        evaluations, which illustrate the benefit of integrating expert knowledge and the strong generalization
+        capabilities of FLAIR under difficult scenarios with domain shifts or unseen categories. When adapted
+        with a lightweight linear probe, FLAIR outperforms fully-trained, dataset-focused models, more so in the
+        few-shot regimes. Interestingly, FLAIR outperforms by a wide margin larger-scale generalist
+        image-language models and retina domain-specific self-supervised networks, which emphasizes the potential
+        of embedding experts' domain knowledge and the limitations of generalist models in medical imaging.
+
     </div>
     <br>
 
@@ -119,12 +120,15 @@
 
     <p>Please cite our paper if it is helpful to your work:</p>
 
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@article{FLAIR2023,
-        title={A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision},
-        author={Julio Silva-Rodriguez and Hadi Chakor and Riadh Kobbi and Jose Dolz and Ismail Ben Ayed},
-        journal={ArXiv Preprint},
-        year={2023}
-    }</code></pre></div></div>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@article{FLAIR,
+            title = {A Foundation Language-Image Model of the Retina (FLAIR): encoding expert knowledge in text supervision},
+            author = {Julio Silva-Rodríguez and Hadi Chakor and Riadh Kobbi and Jose Dolz and Ismail {Ben Ayed}},
+            journal = {Medical Image Analysis},
+            volume = {99},
+            pages = {103357},
+            year = {2025},
+            issn = {1361-8415},
+        }</code></pre></div></div>
 
 <h2 id="contact">Contact</h2>
 <hr>
