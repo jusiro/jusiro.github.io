@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/publications/24_eccv_teaser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/publications/24_miccai_calib_teaser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/publications/24_miccai_vlms_teaser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/publications/25_cvpr_teaser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/publications/25_ipmi_dlilp_teaser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/publications/25_ipmi_fca_teaser.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/services.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clap_teaser.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/24_cvpr_teaser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/teaser_cmpb_20.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/20_cmpb_teaser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/teaser_flair_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/25_flair_teaser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/teaser_jbhi_21.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/21_jbhi_teaser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/teaser_media_uas_22.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/22_media_teaser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/teaser_miccai_fewshot_segm_23.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/23_fseft_teaser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/teser_bmvc_2021.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
