@@ -3,14 +3,14 @@
 
 <h2 id="publications" style="margin: 2px 0px -15px;"></h2>
 
-<div class="publications">
+<div class="publications" style="height: 580px; overflow: auto;">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px; display: inline-block;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
@@ -18,7 +18,7 @@
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px; font-size:15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -47,10 +47,9 @@
 </div>
 </li>
 
-<br>
-
 {% endfor %}
 
 </ol>
 </div>
+<hr style="height:10px; visibility:hidden;" />
 

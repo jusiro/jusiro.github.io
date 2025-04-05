@@ -38,34 +38,46 @@ studying novel strategies for few-shot, parameter-efficient adaptation to downst
 <div style="height: 140px; overflow: auto;">
     <ul>
         <li>
-            <strong>[Mar. 2024]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR 2024.
-        </li> 
-        <li>
-            <strong>[Aug. 2023]</strong> Our paper about few-shot fine-tuning is accepted to MICCAI-MedAGI 2023.
-        </li> 
-        <li>
-            <strong>[Apr. 2023]</strong> I have been awarded with the Postdoctoral Merit Scholarship for Foreign Students (PBEEE) from the Fonds de recherche du Québec (FRQ)!
-        </li> 
-        <li>
-            <strong>[Jan. 2023]</strong> I started working as a Postdoctoral Fellow at ETS Montreal.
-        </li> 
-        <li>
-            <strong>[Nov. 2022]</strong> I defended my PhD Thesis on not-so-supervised learning on medical imaging.
+            <strong>[02/25]</strong> Our work on conformal prediction has been accepted at CVPR'25.
         </li>
         <li>
-            <strong>[Jun. 2022]</strong> Our paper about unsupervised brain lesion segmentation is accepted to MedIA.
+            <strong>[02/25]</strong> Two first-authored papers accepted at IPMI'25 on medical VLMs!.
         </li>
         <li>
-            <strong>[Jun. 2021]</strong> Our paper about weakly supervised WSI grading is accepted to JBHI.
+            <strong>[01/25]</strong> FLAIR, the first VLM for fundus image has finally been published at MedIA.
         </li> 
         <li>
-            <strong>[Jul. 2020]</strong> Our article on prostate histology image grading is accepted at the CMPB.
+            <strong>[05/24]</strong> Two papers accepted at MICCAI'24!.
         </li> 
         <li>
-            <strong>[Sep. 2019]</strong> I have been awarded with a 4-years PhD research personnel training grant (FPI) from the Spanish Goverment.
+            <strong>[03/24]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR'24.
         </li> 
         <li>
-            <strong>[Sep. 2019]</strong> Started my PhD studies under supervision of Prof. Valery Naranjo.
+            <strong>[08/23]</strong> Our paper about few-shot fine-tuning is accepted to MICCAI-MedAGI 2023.
+        </li> 
+        <li>
+            <strong>[04/23]</strong> I have been awarded with the Postdoctoral Merit Scholarship for Foreign Students (PBEEE) from the Fonds de recherche du Québec (FRQ)!
+        </li> 
+        <li>
+            <strong>[01/23]</strong> I started working as a Postdoctoral Fellow at ÉTS Montréal.
+        </li> 
+        <li>
+            <strong>[10/22]</strong> I defended my PhD Thesis on not-so-supervised learning on medical imaging.
+        </li>
+        <li>
+            <strong>[06/22]</strong> Our paper about unsupervised brain lesion segmentation is accepted to MedIA.
+        </li>
+        <li>
+            <strong>[06/21]</strong> Our paper about weakly supervised WSI grading is accepted to JBHI.
+        </li> 
+        <li>
+            <strong>[06/20]</strong> Our article on prostate histology grading - SICAPv2 dataset - is accepted at CMPB.
+        </li> 
+        <li>
+            <strong>[09/19]</strong> I have been awarded with a 4-years PhD research personnel training grant (FPI) from the Spanish Goverment.
+        </li> 
+        <li>
+            <strong>[09/19]</strong> Started my PhD studies under supervision of Prof. Valery Naranjo.
         </li> 
     </ul>
 </div>
@@ -86,5 +98,5 @@ studying novel strategies for few-shot, parameter-efficient adaptation to downst
 
 <p><center>
     <br>
-    Last updated: March 2024
+    Last updated: April 2025
 </center></p>
