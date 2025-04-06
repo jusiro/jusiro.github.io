@@ -17,5 +17,5 @@
 
 <h4 style="margin:0 10px 0; display: inline-block;"> Best PhD Thesis Award:</h4> 
 <div style="text-align: justify; margin:0 10px 0;">
-Received from Universitat Politècnica de València <a href="https://www.upv.es/entidades/edoctorado/download/32421"><autocolor>(3/112)</autocolor></a>. 
+Received from Universitat Politècnica de València <a href="https://www.upv.es/entidades/edoctorado/download/32421"><autocolor>(Rank: 3/112)</autocolor></a>. 
 </div>
