@@ -9,6 +9,14 @@ MICCAI'25 - MIDL'25 - CVPR'25 - NeurIPS'24 - ECCV'24 - MICCAI'24 -
 MIDL'24 - CVPR'24 - MICCAI'23.
 </div>
 
+<h4 style="margin:0 10px 0;">Conference Program Committee:</h4>
+
+<ul style="margin:0 0 0px;">
+  <li>
+  <a href="https://sites.google.com/view/fmmedicine/organizing-committee"><autocolor>Special Session in Foundation Models for Medicine (FMM) at IJCNN.</autocolor></a>
+  </li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Journal Reviewer:</h4>
 
 <ul style="margin:0 0 0px;">
