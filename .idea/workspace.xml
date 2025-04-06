@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_data/talks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/news.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/talks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/recognitions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/recognitions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/services.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/bibtexs/medagi23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/css/publications-no-dark-mode.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/css/publications.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/css/style-no-dark-mode.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/files/curriculum_vitae.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/img/favicon-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/img/teaser_example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/img/teaser_example_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/js/favicon-switcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/assets/js/scale.fix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/projects/dlilp.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/dlilp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

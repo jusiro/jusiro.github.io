@@ -11,6 +11,9 @@ MICCAI'25 - MIDL'25 - CVPR'25 - NeurIPS'24 - ECCV'24 - MICCAI'24 - MIDL'24 - CVP
   <li>
   <a href="https://sites.google.com/view/fmmedicine/organizing-committee"><autocolor>Special Session in Foundation Models for Medicine (FMM) at IJCNN'25.</autocolor></a>
   </li>
+  <li>
+  <a href="https://sites.google.com/view/miccai-2024-tutorial"><autocolor> Tutorial on Foundation Models For Medical Imaging (FOMMIA) at MICCAI'24.</autocolor></a>
+  </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer:</h4>
@@ -20,3 +23,5 @@ MICCAI'25 - MIDL'25 - CVPR'25 - NeurIPS'24 - ECCV'24 - MICCAI'24 - MIDL'24 - CVP
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"><autocolor>IEEE Transactions on Image Processing.</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics"><autocolor>Computerized Medical Imaging and Graphics.</autocolor></a></li>
 </ul>
+
+
