@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/services.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/20_cmpb.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/21_jbhi.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/22_media.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/24_eccv.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/24_miccai_calib.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/24_miccai_vlms.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/25_cvpr.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/25_ipmi_dlilp.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/25_ipmi_fca.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bibtexs/clap.bib" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bibtexts/24_cvpr.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bibtexs/flair.bib" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bibtexts/25_flair.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bibtexs/medagi23.bib" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bibtexts/23_fseft.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +41,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/_includes"
+    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/bibtexts"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/bibtexts" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/projects" />
       <recent name="$PROJECT_DIR$/assets/bibtexs" />
-      <recent name="$PROJECT_DIR$/html_source_file/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/publications" />
