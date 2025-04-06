@@ -51,5 +51,4 @@
 
 </ol>
 </div>
-<hr style="height:10px; visibility:hidden;" />
 

@@ -87,13 +87,16 @@ studying novel strategies for few-shot, parameter-efficient adaptation to downst
 </div>
 
 {% include_relative _includes/publications.md %}
+<hr style="height:2px; visibility:hidden;" />
 
 {% include_relative _includes/services.md %}
+<hr style="height:2px; visibility:hidden;" />
 
-<div id="v-space">
-</div>
+{% include_relative _includes/recognitions.md %}
+<hr style="height:2px; visibility:hidden;" />
 
 ---
+<hr style="height:2px; visibility:hidden;" />
 
 <p><center>
     <a href='https://clustrmaps.com/site/1c5cm'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=p5yH_wWkzv36A66-zF0i4nil92bXzKwVvRNbZHG4MbM&co=2d78ad&ct=ffffff'/></a>
