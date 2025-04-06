@@ -1,0 +1,26 @@
+main:
+
+  - title: "Towards Trustworthy Vision-Language Models trough Conformal Prediction"
+    venue: CentraleSupélec - Mathematics and Bioinformathics (MICS) research group.
+    date: 01/25
+    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    website: https://arxiv.org/pdf/xxxx.xxxx.pdf
+
+  - title: "Conformal Prediction for Zero-Shot Models"
+    venue: Sorbonne Université - Institut des Systèmes Intelligents et Robotique (ISIR).
+    date: 01/25
+    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    website: https://arxiv.org/pdf/xxxx.xxxx.pdf
+
+  - title: "Foundation Models for Volumetric Medical Image Segmentation"
+    venue: "MICCAI'24 Tutorials: Foundation Models For Medical Imaging (FOMMIA)"
+    date: 10/24
+    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    website: https://sites.google.com/view/miccai-2024-tutorial
+
+  - title: "Hands-on: Few-Shot Adaptation of Medical VLMs"
+    venue: <a href="https://event.fourwaves.com/dlmi2024/pages"><autocolor>Summer School on Deep Learning for Medical Imaging (DLMI) - ÉTS Montréal (<strong>MICCAI</strong> endorsed).</autocolor></a>
+    date: 07/24
+    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    code: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials
+    website: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials

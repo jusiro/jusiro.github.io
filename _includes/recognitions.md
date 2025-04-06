@@ -11,7 +11,7 @@
 <h4 style="margin:0 10px 0;">Best Paper Award:</h4>
 <ul style="margin:0 0 0px;">
   <li>
-  <a href="https://medagi2023.github.io/#/"><autocolor>Int. Workshop on Foundation Models for General Medical AI (MICCAIw-MedAGI).</autocolor></a>
+  <a href="https://medagi2023.github.io/#/"><autocolor>Int. Workshop on Foundation Models for General Medical AI (MICCAIw'23-MedAGI).</autocolor></a>
   </li>
 </ul>
 

@@ -17,7 +17,7 @@ main:
     pdf: https://arxiv.org/pdf/xxxx.xxxx.pdf
     code: https://github.com/jusiro/FCA
     page: https://jusiro.github.io/projects/FCA
-    notes: -Oral Presentation
+    notes: -Oral
     image: ./assets/img/publications/25_ipmi_fca_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_fca.bib
 
@@ -89,7 +89,7 @@ main:
     pdf: https://arxiv.org/pdf/2303.17051.pdf
     code: https://github.com/jusiro/fewshot-finetuning
     page: https://github.com/jusiro/fewshot-finetuning
-    notes: -Oral Presentation
+    notes: -Oral
     image: ./assets/img/publications/23_fseft_teaser.png
     bibtex: ./assets/bibtexts/23_fseft.bib
 
