@@ -5,54 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/files/posters/23_miccaiw_poster.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/posters/24_cvpr_poster.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/posters/24_eccv_poster.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/posters/24_miccai_calib_poster.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/posters/24_miccai_vlms_poster.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/posters/25_media_flair_poster.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/slides/23_miccaiw_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/slides/24_cvpr_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/slides/24_miccai_vlms_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/slides/25_ipmi_dlilp_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/slides/25_media_flair_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/23_ets_medical_workshop_october_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/24_cvpr_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/24_dlmi_handson_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/24_miccai_fomia_segmentation_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/24_montreal_seminar_medical_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/25_centralesupelec_conformal_slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/25_sorbonne_conformal_slides.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/talks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/talks.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/talks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clap.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/24_cvpr/clap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clap_results.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/24_cvpr/clap_results.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/covid_zeroshot.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp/covid_zeroshot.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cxr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp/cxr.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cxr_vlm_pitfalls.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp/cxr_vlm_pitfalls.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/dlilp_overview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/dlilp_overview.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp/dlilp_overview.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/dlilp_results.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp/dlilp_results.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/etl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/etl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/24_cvpr/etl.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/flair.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_media_flair/flair.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/flair_pretrain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/flair_table_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/flair_table_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/header_cvpr.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/24_cvpr/header_cvpr.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/performance_flair.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/performance_flair_teaser.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_media_flair/performance_flair_teaser.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/pitfalls_crosshift.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/24_cvpr/pitfalls_crosshift.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/sample_macular_hole.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_media_flair/sample_macular_hole.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/teaser_flair.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/25_media_flair/teaser_flair.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/clap.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/clap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/dlilp.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/dlilp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/flair.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/flair.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,16 +28,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/files"
+    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/img/projects/25_ipmi_dlilp"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp" />
       <recent name="$PROJECT_DIR$/assets/files" />
       <recent name="$PROJECT_DIR$/html_source_file/assets/css" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$/_data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp" />

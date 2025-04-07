@@ -6,7 +6,6 @@ main:
     conference: <strong>CVPR</strong>, 2025.
     pdf: https://arxiv.org/pdf/xxxx.xxxx.pdf
     code: https://github.com/jusiro/CLIP-Conformal
-    page: https://jusiro.github.io/projects/clip_conformal
     image: ./assets/img/publications/25_cvpr_teaser.png
     bibtex: ./assets/bibtexts/25_cvpr.bib
 
@@ -16,7 +15,6 @@ main:
     conference: <strong>IPMI</strong>, 2025.
     pdf: https://arxiv.org/pdf/xxxx.xxxx.pdf
     code: https://github.com/jusiro/FCA
-    page: https://jusiro.github.io/projects/FCA
     notes: -Oral
     image: ./assets/img/publications/25_ipmi_fca_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_fca.bib
@@ -27,7 +25,7 @@ main:
     conference: <strong>IPMI</strong>, 2025.
     pdf: https://arxiv.org/pdf/xxxx.xxxx.pdf
     code: https://github.com/jusiro/DLILP
-    page: https://jusiro.github.io/projects/DLILP
+    page: https://jusiro.github.io/projects/dlilp.html
     image: ./assets/img/publications/25_ipmi_dlilp_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_dlilp.bib
     slides: ./assets/files/slides/25_ipmi_dlilp_slides.pdf
@@ -50,7 +48,6 @@ main:
     conference: <strong>MICCAI</strong>, 2024.
     pdf: https://arxiv.org/abs/2409.03868
     code: https://github.com/FereshteShakeri/few-shot-MedVLMs
-    page: https://github.com/FereshteShakeri/few-shot-MedVLMs
     notes: -Spotlight
     image: ./assets/img/publications/24_miccai_vlms_teaser.png
     bibtex: ./assets/bibtexts/24_miccai_vlms.bib
@@ -63,7 +60,6 @@ main:
     conference: <strong>MICCAI</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.12364
     code: https://github.com/Bala93/CRac
-    page: https://github.com/Bala93/CRac
     image: ./assets/img/publications/24_miccai_calib_teaser.png
     bibtex: ./assets/bibtexts/24_miccai_calib.bib
     poster: ./assets/files/posters/24_miccai_calib_poster.pdf
@@ -74,7 +70,6 @@ main:
     conference: <strong>ECCV</strong>, 2024.
     pdf: https://arxiv.org/abs/2407.13588
     code: https://github.com/Bala93/CLIPCalib
-    page: https://github.com/Bala93/CLIPCalib
     image: ./assets/img/publications/24_eccv_teaser.png
     bibtex: ./assets/bibtexts/24_eccv.bib
     poster: ./assets/files/posters/24_eccv_poster.pdf
@@ -97,7 +92,6 @@ main:
     conference: <strong>MICCAIw-MedAGI</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.17051.pdf
     code: https://github.com/jusiro/fewshot-finetuning
-    page: https://github.com/jusiro/fewshot-finetuning
     notes: -Oral
     image: ./assets/img/publications/23_fseft_teaser.png
     bibtex: ./assets/bibtexts/23_fseft.bib
@@ -110,7 +104,6 @@ main:
     conference: Medical Image Analysis, 2022.
     pdf: https://arxiv.org/pdf/2203.01671.pdf
     code: https://github.com/jusiro/constrained_anomaly_segmentation
-    page: https://github.com/jusiro/constrained_anomaly_segmentation
     image: ./assets/img/publications/22_media_teaser.png
     bibtex: ./assets/bibtexts/22_media.bib
 
@@ -120,7 +113,6 @@ main:
     conference: IEEE-Journal of Biomedical and Health Informatics, 2021.
     pdf: https://arxiv.org/pdf/2105.10420.pdf
     code: https://github.com/jusiro/mil_histology
-    page: https://github.com/jusiro/mil_histology
     image: ./assets/img/publications/21_jbhi_teaser.png
     bibtex: ./assets/bibtexts/21_jbhi.bib
 
