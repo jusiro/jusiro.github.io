@@ -125,3 +125,4 @@ main:
     dataset: https://data.mendeley.com/datasets/9xxm58dvs3/2
     image: ./assets/img/publications/20_cmpb_teaser.png
     bibtex: ./assets/bibtexts/20_cmpb.bib
+    notes: -SICAPv2 (+1K downloads)
