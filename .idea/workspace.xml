@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_data/talks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/talks.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/talks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/img/projects/25_ipmi_dlilp"
+    "last_opened_file_path": "/home/juliosilva/Documents/Projects/DLILP"
   }
 }]]></component>
   <component name="RecentsManager">
