@@ -122,6 +122,6 @@ main:
     conference: Computer Methods and Programs in Biomedicine, 2020.
     pdf: https://arxiv.org/pdf/2105.10490.pdf
     code: https://github.com/cvblab/gleason_grading_cmpb
-    page: https://data.mendeley.com/datasets/9xxm58dvs3/2
+    dataset: https://data.mendeley.com/datasets/9xxm58dvs3/2
     image: ./assets/img/publications/20_cmpb_teaser.png
     bibtex: ./assets/bibtexts/20_cmpb.bib
