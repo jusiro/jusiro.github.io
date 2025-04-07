@@ -38,6 +38,7 @@ main:
     website: https://www.youtube.com/watch?v=jZg-vsG8alU
     posts: https://voxel51.com/blog/cvpr-2024-survival-guide-five-vision-language-papers-you-dont-want-to-miss/
     medium: https://datascienceharp.medium.com/clap-enhancing-linear-probing-for-efficient-few-shot-learning-in-vision-language-models-2681c01a699d
+    video: https://www.youtube.com/watch?v=jZg-vsG8alU
 
   - title: "FLAIR: A Foundation Vision-Language Model of the Retina"
     venue: Montréal 2023 Medical Imaging Workshop.
