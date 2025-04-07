@@ -25,6 +25,12 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
+      {% if link.posts %} 
+      <a href="{{ link.posts }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Posts</a>
+      {% endif %}
+      {% if link.medium %} 
+      <a href="{{ link.medium }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Medium</a>
+      {% endif %}
     </div>
   </div>
 </div>

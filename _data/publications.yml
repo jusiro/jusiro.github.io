@@ -30,6 +30,7 @@ main:
     page: https://jusiro.github.io/projects/DLILP
     image: ./assets/img/publications/25_ipmi_dlilp_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_dlilp.bib
+    slides: ./assets/files/slides/25_ipmi_dlilp_slides.pdf
 
   - title: "A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision"
     authors: <strong>Julio Silva-Rodríguez</strong>, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed
@@ -40,6 +41,8 @@ main:
     page: https://jusiro.github.io/projects/flair
     image: ./assets/img/publications/25_flair_teaser.png
     bibtex: ./assets/bibtexts/25_flair.bib
+    slides: ./assets/files/slides/25_media_flair_slides.pdf
+    poster: ./assets/files/posters/25_media_flair_poster.pdf
 
   - title: "Few-Shot Adaptation of Medical Vision-Language Models"
     authors: Fereshteh Shakeri, Yunshi Huang, <strong>Julio Silva-Rodríguez</strong>, Houda Bahig, An Tang, Jose Dolz, Ismail Ben Ayed
@@ -51,6 +54,8 @@ main:
     notes: -Spotlight
     image: ./assets/img/publications/24_miccai_vlms_teaser.png
     bibtex: ./assets/bibtexts/24_miccai_vlms.bib
+    slides: ./assets/files/slides/24_miccai_vlms_slides.pdf
+    poster: ./assets/files/posters/24_miccai_vlms_poster.pdf
 
   - title: "Class and Region-Adaptive Constraints for Network Calibration"
     authors: Balamurali Murugesan, <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
@@ -61,6 +66,7 @@ main:
     page: https://github.com/Bala93/CRac
     image: ./assets/img/publications/24_miccai_calib_teaser.png
     bibtex: ./assets/bibtexts/24_miccai_calib.bib
+    poster: ./assets/files/posters/24_miccai_calib_poster.pdf
 
   - title: "Robust Calibration of Large Vision-Language Adapters"
     authors: Balamurali Murugesan, <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
@@ -71,6 +77,7 @@ main:
     page: https://github.com/Bala93/CLIPCalib
     image: ./assets/img/publications/24_eccv_teaser.png
     bibtex: ./assets/bibtexts/24_eccv.bib
+    poster: ./assets/files/posters/24_eccv_poster.pdf
 
   - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
     authors: <strong>Julio Silva-Rodríguez</strong>, Sina Hajimiri, Ismail Ben Ayed, Jose Dolz
@@ -81,6 +88,8 @@ main:
     page: https://jusiro.github.io/projects/clap
     image: ./assets/img/publications/24_cvpr_teaser.png
     bibtex: ./assets/bibtexts/24_cvpr.bib
+    slides: ./assets/files/slides/24_cvpr_slides.pdf
+    poster: ./assets/files/posters/24_cvpr_poster.pdf
 
   - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
     authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
@@ -92,6 +101,8 @@ main:
     notes: -Oral
     image: ./assets/img/publications/23_fseft_teaser.png
     bibtex: ./assets/bibtexts/23_fseft.bib
+    slides: ./assets/files/slides/23_miccaiw_slides.pdf
+    poster: ./assets/files/posters/23_miccaiw_poster.pdf
 
   - title: "Constrained unsupervised anomaly segmentation"
     authors: <strong>Julio Silva-Rodríguez</strong>, Valery Naranjo, Jose Dolz

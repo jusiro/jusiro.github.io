@@ -3,24 +3,44 @@ main:
   - title: "Towards Trustworthy Vision-Language Models trough Conformal Prediction"
     venue: CentraleSupélec - Mathematics and Bioinformathics (MICS) research group.
     date: 01/25
-    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
-    website: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    slides: ./assets/files/talks/slides/25_centralesupelec_conformal_slides.pdf
+    website: ./assets/files/talks/slides/25_centralesupelec_conformal_slides.pdf
 
   - title: "Conformal Prediction for Zero-Shot Models"
     venue: Sorbonne Université - Institut des Systèmes Intelligents et Robotique (ISIR).
     date: 01/25
-    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
-    website: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    slides: ./assets/files/talks/slides/25_sorbonne_conformal_slides.pdf
+    website: ./assets/files/talks/slides/25_sorbonne_conformal_slides.pdf
 
   - title: "Foundation Models for Volumetric Medical Image Segmentation"
     venue: "MICCAI'24 Tutorials: Foundation Models For Medical Imaging (FOMMIA)"
     date: 10/24
-    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    slides: ./assets/files/talks/slides/24_miccai_fomia_segmentation_slides.pdf
     website: https://sites.google.com/view/miccai-2024-tutorial
 
   - title: "Hands-on: Few-Shot Adaptation of Medical VLMs"
     venue: <a href="https://event.fourwaves.com/dlmi2024/pages"><autocolor>Summer School on Deep Learning for Medical Imaging (DLMI) - ÉTS Montréal (<strong>MICCAI</strong> endorsed).</autocolor></a>
     date: 07/24
-    slides: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    slides: ./assets/files/talks/slides/24_dlmi_handson_slides.pdf
     code: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials
     website: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials
+
+  - title: "A Reality Check of Vision-Language Pre-training in Radiology"
+    venue: Montréal 2024 Medical Imaging Workshop.
+    date: 05/24
+    slides: ./assets/files/talks/slides/24_montreal_seminar_medical_slides.pdf
+    website: ./assets/files/talks/slides/24_montreal_seminar_medical_slides.pdf
+
+  - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
+    venue: <a href="https://www.youtube.com/watch?v=jZg-vsG8alU"><autocolor>Interview at CVPR'24 Pre-show - Voxel51.</autocolor></a>
+    date: 04/24
+    slides: ./assets/files/talks/slides/24_cvpr_slides.pdf
+    website: https://www.youtube.com/watch?v=jZg-vsG8alU
+    posts: https://voxel51.com/blog/cvpr-2024-survival-guide-five-vision-language-papers-you-dont-want-to-miss/
+    medium: https://datascienceharp.medium.com/clap-enhancing-linear-probing-for-efficient-few-shot-learning-in-vision-language-models-2681c01a699d
+
+  - title: "FLAIR: A Foundation Vision-Language Model of the Retina"
+    venue: Montréal 2023 Medical Imaging Workshop.
+    date: 10/23
+    slides: ./assets/files/talks/slides/23_ets_medical_workshop_october_slides.pdf
+    website: ./assets/files/talks/slides/23_ets_medical_workshop_october_slides.pdf
