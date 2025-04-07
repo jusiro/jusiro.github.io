@@ -18,6 +18,12 @@ main:
     slides: ./assets/files/talks/slides/24_miccai_fomia_segmentation_slides.pdf
     website: https://sites.google.com/view/miccai-2024-tutorial
 
+  - title: "Few-Shot Adaptation of Medical Vision-Language Models"
+    venue: "MICCAI'24 Spotlight Presentation"
+    date: Marrakech, 10/24
+    slides: ./assets/files/talks/slides/24_miccai_vlms_slides.pdf
+    website: ./assets/files/talks/slides/24_miccai_vlms_slides.pdf
+
   - title: "Hands-on: Few-Shot Adaptation of Medical VLMs"
     venue: <a href="https://event.fourwaves.com/dlmi2024/pages"><autocolor>Summer School on Deep Learning for Medical Imaging (DLMI) - ÉTS Montréal (<strong>MICCAI</strong> endorsed).</autocolor></a>
     date: Montréal, 07/24
