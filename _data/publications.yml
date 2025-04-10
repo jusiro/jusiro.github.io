@@ -30,6 +30,17 @@ main:
     bibtex: ./assets/bibtexts/25_ipmi_dlilp.bib
     slides: ./assets/files/slides/25_ipmi_dlilp_slides.pdf
 
+  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
+    authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
+    conference_short: MedIA
+    conference: Medical Image Analysis, 2025.
+    pdf: https://arxiv.org/pdf/2303.17051.pdf
+    code: https://github.com/jusiro/fewshot-finetuning
+    image: ./assets/img/publications/23_fseft_teaser.png
+    bibtex: ./assets/bibtexts/23_fseft.bib
+    slides: ./assets/files/slides/23_miccaiw_slides.pdf
+    poster: ./assets/files/posters/23_miccaiw_poster.pdf
+
   - title: "A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision"
     authors: <strong>Julio Silva-Rodríguez</strong>, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed
     conference_short: MedIA
@@ -85,18 +96,6 @@ main:
     bibtex: ./assets/bibtexts/24_cvpr.bib
     slides: ./assets/files/slides/24_cvpr_slides.pdf
     poster: ./assets/files/posters/24_cvpr_poster.pdf
-
-  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
-    conference_short: MICCAIw'23-MedAGI
-    conference: <strong>MICCAIw-MedAGI</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2303.17051.pdf
-    code: https://github.com/jusiro/fewshot-finetuning
-    notes: -Oral
-    image: ./assets/img/publications/23_fseft_teaser.png
-    bibtex: ./assets/bibtexts/23_fseft.bib
-    slides: ./assets/files/slides/23_miccaiw_slides.pdf
-    poster: ./assets/files/posters/23_miccaiw_poster.pdf
 
   - title: "Constrained unsupervised anomaly segmentation"
     authors: <strong>Julio Silva-Rodríguez</strong>, Valery Naranjo, Jose Dolz
