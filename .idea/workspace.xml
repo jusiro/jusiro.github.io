@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/23_miccaiw_slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bibtexts/25_fseft.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/talks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/talks.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/news.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +32,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/files/talks/slides"
+    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/bibtexts" />
       <recent name="$PROJECT_DIR$/assets/files/talks/slides" />
       <recent name="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp" />
       <recent name="$PROJECT_DIR$/assets/files" />
       <recent name="$PROJECT_DIR$/html_source_file/assets/css" />
-      <recent name="$PROJECT_DIR$/assets/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp" />

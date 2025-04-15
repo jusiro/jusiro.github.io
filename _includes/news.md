@@ -5,7 +5,7 @@
 <div style="height: 140px; overflow: auto;">
     <ul>
         <li>
-            <strong>[02/25]</strong> Our work on conformal prediction has been accepted at CVPR'25.
+            <strong>[02/25]</strong> Our work on conformal prediction for VLMs has been accepted at CVPR'25.
         </li>
         <li>
             <strong>[02/25]</strong> We got two papers accepted at IPMI'25 on medical VLMs! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.

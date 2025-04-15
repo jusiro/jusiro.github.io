@@ -36,8 +36,9 @@ main:
     conference: Medical Image Analysis, 2025.
     pdf: https://arxiv.org/pdf/2303.17051.pdf
     code: https://github.com/jusiro/fewshot-finetuning
+    page: https://jusiro.github.io/projects/fseft.html
     image: ./assets/img/publications/23_fseft_teaser.png
-    bibtex: ./assets/bibtexts/23_fseft.bib
+    bibtex: ./assets/bibtexts/25_fseft.bib
     slides: ./assets/files/slides/23_miccaiw_slides.pdf
     poster: ./assets/files/posters/23_miccaiw_poster.pdf
 
