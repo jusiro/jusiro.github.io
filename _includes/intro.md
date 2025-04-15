@@ -1,4 +1,4 @@
-## Academic Site
+## Short Bio
 ---
 
 <div style="text-align: justify ">
