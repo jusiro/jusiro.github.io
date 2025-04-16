@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_media_fseft/example.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_media_fseft/overview_model.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_media_fseft/summary_base_categories.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_media_fseft/summary_novel_categories.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/fseft.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
