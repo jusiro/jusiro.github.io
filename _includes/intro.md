@@ -1,4 +1,4 @@
-## Short Bio
+## About
 ---
 
 <div style="text-align: justify ">
