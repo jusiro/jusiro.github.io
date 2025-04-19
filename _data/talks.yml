@@ -1,5 +1,9 @@
 main:
 
+  - title: "Towards Multi-Modal Foundation Models for Retinal Image Analysis"
+    venue: APTOS-JSAIO'25 - invited faculty symposium on foundation models.
+    date: Osaka, 06/25
+
   - title: "Towards Trustworthy Vision-Language Models trough Conformal Prediction"
     venue: CentraleSupélec - Mathematics and Bioinformathics (MICS) research group.
     date: Paris, 01/25
