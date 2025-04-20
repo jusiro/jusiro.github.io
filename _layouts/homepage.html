@@ -12,7 +12,7 @@
       gtag('config', 'G-ELZW942XKQ');
     </script>
 
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{site.position}}</title>
 
     <meta charset="UTF-8">
     <meta property="og:image" content="{{ site.preview_image }}" />
@@ -60,6 +60,10 @@
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <br>
+        {% endif %}
+        {% if site.subposition %}
+        <subposition style="font-size:0.95rem;">{{ site.subposition }}</subposition>
         <br>
         {% endif %}
         {% if site.affiliation %}
