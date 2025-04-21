@@ -3,7 +3,7 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewer:</h4>
 <div style="text-align: justify; margin:0 10px 0;">
-MICCAI'25 - MIDL'25 - CVPR'25 - NeurIPS'24 - ECCV'24 - MICCAI'24 - MIDL'24 - CVPR'24 - MICCAI'23.
+MICCAI'25 - MIDL'25 - IPMI'25 - CVPR'25 - NeurIPS'24 - ECCV'24 - MICCAI'24 - MIDL'24 - CVPR'24 - MICCAI'23.
 </div>
 
 <h4 style="margin:0 10px 0;">Conference Program Committee:</h4>
