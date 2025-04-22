@@ -2,7 +2,7 @@
 ---
 
 <div style="text-align: justify ">
-AI researcher specializing in computer vision and medical imaging. Currently developing foundation models tailored for medical image analysis — exploring few-shot, parameter-efficient adaptation and uncertainty quantification. Passionate about building scalable, real-world AI systems that push the boundaries of healthcare and imaging. Strong publication record in leading computer vision and medical imaging venues, i.e., CVPR, ECCV, MedIA, MICCAI, and IPMI.
+AI researcher specializing in computer vision and medical imaging. Currently developing foundation models tailored for medical image analysis — exploring few-shot, parameter-efficient adaptation and uncertainty quantification. Passionate about building scalable, real-world AI systems that push the boundaries of healthcare and imaging. Strong publication record in leading computer vision and medical imaging venues, e.g., CVPR, ECCV, MedIA, MICCAI, and IPMI.
 </div>
 
 <div style="line-height:50%;">
