@@ -1,0 +1,178 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+
+   <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ELZW942XKQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ELZW942XKQ');
+    </script>
+
+    <meta property="og:image" content="./assets/img/projects/25_cvpr/clipconformal_overview.svg" />
+    <meta name="twitter:image" content="./assets/img/projects/25_cvpr/clipconformal_overview.svg" />
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Project page of the paper 'Conformal Prediction for Zero-Shot Models'.">
+
+    <title>CLIP-Conformal</title>
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="../assets/img/projects/25_cvpr/teaser_mini.png" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="../assets/img/projects/25_cvpr/teaser_mini.png" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <link href="lib/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+        <link href="lib/normalize.css" type="text/css" rel="stylesheet">
+        <script src="http://use.typekit.net/ulc1wme.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"  />
+
+    <link rel="stylesheet" href="../assets/css/style_project.css">
+
+    <script src="../assets/js/github-stars.js"></script>
+    <script type="text/javascript" src="../assets/js/jquery.js"></script>
+
+  </head>
+  <body>
+
+    <div class="wrapper">
+
+      <section>
+
+      <h2 class="project-name" style="font-weight:normal; font-size: 200%;" align="center">Conformal Prediction for Zero-Shot Models</h2>
+      <h3 style="font-weight:normal" align="center">
+          <a href="https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl" target="_blank">Julio Silva-Rodríguez</a> &#183;
+          <a href="https://scholar.google.es/citations?user=29vyUccAAAAJ&hl" target="_blank">Ismail Ben Ayed</a> &#183;
+          <a href="https://scholar.google.es/citations?user=yHQIFFMAAAAJ&hl" target="_blank">Jose Dolz</a> - ÉTS Montréal.
+      </h3>
+      <h3 style="font-weight:normal; font-size: 125%;" align="center">CVPR'25 &nbsp; - &nbsp;
+        <a href="https://arxiv.org/abs/xxxx.xxxxx" role="button"><i class="fas fa-file-pdf"></i> Paper</a> &nbsp; - &nbsp;
+        <a href="https://github.com/jusiro/CLIP-Conformal" role="button"><i class="fab fa-github"></i> Code</a>
+      </h3>
+<center>
+<img src="../assets/img/projects/25_cvpr/clipconformal_overview.svg" style="background-color:white" width="800" class="figure-img img-responsive center-block">
+</center>
+<br>
+
+<h2 id="contributions">Highlights</h2>
+    <div style="text-align: justify ">
+        <ul>
+            <li>Large-sclae <b>vision-language models (VLMs)</b> are strong zero-shot learners. However, its <b>reliability remains scarcely explored</b>.</li>
+            <li><b><u>Conformal prediction</u></b> is a machine learning framework that provides <b><u>user-specified coverage guarantees</u></b>, by building predictive sets, i.e., few candidate labels per image.
+                For example, in <b>split conformal prediction, the outputs can be conformalized using a small labeled claibration set</b>, to ensure that the correct label
+                is within the predicted sets 90% of the times.</li>
+            <li>In this work, <b><u>we introduce split conformal prediction for transferring zero-shot VLMs.</u></b></li>
+            <li>Since there <b>exist a domain gap between pre-training and the target task the zero-shot predictions might be suboptimal</b>. <b><u>We propose Conf-OT, a transductive pipeline to enhance the
+            produced conformal sets yet maintaining the coverage guarantees.</u></b></li>
+        </ul>
+    </div>
+
+<br>
+<h2 id="challenges">Challenges of conformal prediction for zero-shot models.</h2>
+<hr>
+    <div style="text-align: justify ">
+        Let us assume that we have access to a unique, small calibration set labeled, and <b>we want to prepare the pre-trained VLM
+        to provide predictive sets to ensure a 90% coverage on the true label upon the standard split conformal prediction.
+        However, we also want to improve the zero-shot performance of the VLM, since the target task presents severe domain
+        drifts w.r.t. the target domain</b>. One appealing option would be to <b><u>fistly adapt the produced logits</u></b>, e.g., by adjusting an
+        efficient linear probe, and <b><u>then conformalize</u></b> the outputs based on the same calib supervision. We coin such naive solution
+        as Adapt+SCP. <b><u>However, such pipeline would break the exchangeability assumption between calib/test, and the coverage would not
+        be satisfied (see below, <span style="color:red">red</span>)</u></b>.
+        <center>
+        <img src="../assets/img/projects/25_cvpr/coverages.svg" width="800" class="figure-img img-responsive center-block">
+        </center>
+        Above, we show the coverage distribution for multiple random experiments of the aforementioned pipeline, showing an
+        average level of coverage below the desired threshold for Adapt+SCP.
+         This observation motivates the following question: <b><em>can the performance of VLMs in conformal settings be improved via
+        transfer learning without additional data sources beyond the calibration set?</em></b>
+
+    </div>
+    <br>
+
+<h2 id="proposed">Conf-OT: an unsupervised transductive transfer learning.</h2>
+<hr>
+    <div style="text-align: justify ">
+        To address the domain shift when transferring VLMs in the split conformal prediction setting,
+        we explore novel transfer learning strategies to ensure a smooth adaptation that safewards the exchangeability of calib/test scores distribution.
+        For that porpuse, <b>we propose a black-box adaptation strategy from the zero-shot similarity matrix</b> (logits) that is:
+        </ul>
+            <li> <b>Transductive: calibration and test scores are jointly transferred.</b> </li>
+            <li> <b>Unsupervised: does not explicitly rely on label-supervised sample-wise optimization objectives.</b> </li>
+        </ul>
+        <b><u>Our method, Conf-OT</u></b>: given the joint calib/test zero-shot similarity matrix, <b>we leverage well-established knowledge on Optimal Transport</b>
+        to produce a code assignment that respect the desired properties of the target distribution. For example, in split conformal prediction, we can
+        access the label-marginal distribution from calib labels, which must be the same both in calib/test upon exchangeability premises. <b>Once the new codes are obtained, any non-conformity
+        score can bew used to produce the conformal sets. As shown in the figure above (<span style="color:green">green</span>), <u>Conf-OT maintains
+        the marginal coverage properties satisfied to the desired level.</u></b>
+    </div>
+    <br>
+
+    <center>
+    <img src="../assets/img/projects/25_cvpr/confot_method.svg" width="900" class="figure-img img-responsive center-block">
+    </center>
+
+<br>
+<h2 id="results">Our method improves set efficiency and conditional coverage.</h2>
+<hr>
+    <div style="text-align: justify ">
+        Generally, the desired predictive sets should be as small as possible, i.e., efficient, but also they should adapt to
+        more uncertain cases by integrating larger predictive sets and hence ensure the desired marginal coverage.
+        The latter, so-called adaptiveness property, can be typically measured  by the subgroup (class-wise) coverage gap.
+        <b><u>The proposed Conf-OT transductive pipeline provides consistent improvements of nearly 20% on set efficiency and 10% on
+            adaptiveness for several large-scale VLMs.</u></b>
+
+        <br>
+        <center>
+        <img src="../assets/img/projects/25_cvpr/qualitative_confOT.svg" width="1000" class="figure-img img-responsive center-block">
+        </center>
+
+        Above, we show some qualitative examples of the predicted sets. One can notice that conformal prediction enables
+        quantifying uncertainties related to potential label biases (e.g. there are multiple objected in the image in <em> top-left</em> or <em> bottom-left</em>), and
+        uncertainties due to semantic similarities of visual concepts (e.g. monastery/palace in <em> bottom-right</em>).
+    </div>
+
+<br>
+<h2 id="citation">Citation</h2>
+<hr>
+
+    <p>Please cite our paper if it is helpful to your work:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{confot,
+    title={Conformal Prediction for Zero-Shot Models},
+    author={Julio Silva-Rodr\'iguez and Ismail {Ben Ayed} and Jose Dolz},
+    booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2025}
+}</code></pre></div></div>
+
+<br>
+<h2 id="contact">Contact</h2>
+<hr>
+
+    Please feel free to contact us: <a href="mailto:julio-jose.silva-rodriguez@etsmtl.ca" target="_blank">julio-jose.silva-rodriguez@etsmtl.ca</a>.
+    <br>
+    <br>
+
+
+
+
+      </section>
+    </div>
+    <!--
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-111540567-4', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    -->
+  </body>
+</html>

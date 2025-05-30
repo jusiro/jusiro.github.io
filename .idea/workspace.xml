@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_cvpr/clipconformal_overview.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_cvpr/confot_method.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_cvpr/coverages.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_cvpr/qualitative_confOT.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_cvpr/teaser_mini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_fca/FCA_scheme.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_fca/FCA_teaser.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_fca/Gleason.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/25_ipmi_fca/overview_FCA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/confot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fca.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/clap.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/clap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/dlilp.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/dlilp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/flair.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/flair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/fseft.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/fseft.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +43,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/files"
+    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/img/projects/25_ipmi_fca"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/projects/25_ipmi_fca" />
+      <recent name="$PROJECT_DIR$/projects" />
+      <recent name="$PROJECT_DIR$/assets/img/projects/25_cvpr" />
       <recent name="$PROJECT_DIR$/assets/files" />
       <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/assets/img/projects/25_media_fseft" />
-      <recent name="$PROJECT_DIR$/projects" />
-      <recent name="$PROJECT_DIR$/assets/bibtexts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp" />
