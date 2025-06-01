@@ -18,6 +18,7 @@ main:
     notes: -Oral
     image: ./assets/img/publications/25_ipmi_fca_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_fca.bib
+    slides: ./assets/files/slides/25_ipmi_fca_slides.pdf
 
   - title: "A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?"
     authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
@@ -29,6 +30,7 @@ main:
     image: ./assets/img/publications/25_ipmi_dlilp_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_dlilp.bib
     slides: ./assets/files/slides/25_ipmi_dlilp_slides.pdf
+    poster: ./assets/files/posters/25_ipmi_dlilp_poster.pdf
 
   - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
     authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed

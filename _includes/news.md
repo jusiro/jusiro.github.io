@@ -5,6 +5,9 @@
 <div style="height: 140px; overflow: auto;">
     <ul>
         <li>
+            <strong>[05/25]</strong> One paper early-accepted at MICCAI'25 - see you in Daejeon!
+        </li>
+        <li>
             <strong>[02/25]</strong> Our work on conformal prediction for VLMs has been accepted at CVPR'25.
         </li>
         <li>
