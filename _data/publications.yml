@@ -6,6 +6,7 @@ main:
     conference: <strong>CVPR</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.24693
     code: https://github.com/jusiro/CLIP-Conformal
+    page: https://jusiro.github.io/projects/confot
     image: ./assets/img/publications/25_cvpr_teaser.png
     bibtex: ./assets/bibtexts/25_cvpr.bib
 
