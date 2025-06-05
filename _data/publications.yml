@@ -9,6 +9,7 @@ main:
     page: https://jusiro.github.io/projects/confot
     image: ./assets/img/publications/25_cvpr_teaser.png
     bibtex: ./assets/bibtexts/25_cvpr.bib
+    poster: ./assets/files/posters/25_cvpr_poster.pdf
 
   - title: "Full Conformal Adaptation of Medical Vision-Language Models"
     authors: <strong>Julio Silva-Rodríguez</strong>, Leo Fillioux, Paul-Henry Cournède, Maria Vakalopoulou, Stergios Christodoulidis, Ismail Ben Ayed, Jose Dolz
