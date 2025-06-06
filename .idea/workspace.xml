@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2de63068-7adb-4855-bc53-a6cd648d99e9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/confot.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/confot.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,23 +29,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io/assets/files"
+    "last_opened_file_path": "/home/juliosilva/Documents/jusiro.github.io"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/files/posters" />
       <recent name="$PROJECT_DIR$/assets/files" />
       <recent name="$PROJECT_DIR$/assets/files/talks" />
-      <recent name="$PROJECT_DIR$/assets/files/posters" />
       <recent name="$PROJECT_DIR$/assets/files/slides" />
       <recent name="$PROJECT_DIR$/_layouts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/projects" />
       <recent name="$PROJECT_DIR$/assets/img/projects/25_ipmi_dlilp" />
       <recent name="$PROJECT_DIR$/assets/img/projects/25_media_flair" />
       <recent name="$PROJECT_DIR$/assets/img/projects/24_cvpr" />
-      <recent name="$PROJECT_DIR$/projects" />
-      <recent name="$PROJECT_DIR$/assets/img/publications" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
