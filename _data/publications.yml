@@ -1,11 +1,51 @@
 main:
 
+  - title: "Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation."
+    authors: <strong>Julio Silva-Rodríguez</strong>, Fereshteh Shakeri, Houda Bahig, Jose Dolz, Ismail Ben Ayed
+    conference_short: MICCAI'25
+    conference: <strong>MICCAI</strong>, 2025.
+    pdf: https://arxiv.org/abs/2506.17500
+    code: https://github.com/jusiro/SS-Text
+    stars: https://img.shields.io/github/stars/jusiro/SS-Text?style=social&label=Stars
+    image: ./assets/img/publications/25_miccai_sstext_teaser.svg
+
+  - title: "Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction."
+    authors: <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
+    conference_short: MICCAI'25
+    conference: <strong>MICCAI</strong>, 2025.
+    pdf: https://arxiv.org/abs/2506.17503
+    code: https://github.com/jusiro/SCA-T
+    image: ./assets/img/publications/25_miccai_scat_teaser.svg
+
+  - title: "Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation."
+    authors: Ghassen Baklouti, <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Houda Bahig, Ismail Ben Ayed
+    conference_short: MICCAI'25
+    conference: <strong>MICCAI</strong>, 2025.
+    pdf: https://arxiv.org/abs/2507.15793
+    code: https://github.com/jusiro/SCA-T
+    stars: https://img.shields.io/github/stars/ghassenbaklouti/ARENA?style=social&label=Stars
+    image: ./assets/img/publications/25_miccai_arena_teaser.svg
+
+  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
+    authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
+    conference_short: MedIA
+    conference: Medical Image Analysis, 2025.
+    pdf: https://arxiv.org/pdf/2303.17051.pdf
+    code: https://github.com/jusiro/fewshot-finetuning
+    stars: https://img.shields.io/github/stars/jusiro/fewshot-finetuning?style=social&label=Stars
+    page: https://jusiro.github.io/projects/fseft.html
+    image: ./assets/img/publications/23_fseft_teaser.png
+    bibtex: ./assets/bibtexts/25_fseft.bib
+    slides: ./assets/files/slides/23_miccaiw_slides.pdf
+    poster: ./assets/files/posters/23_miccaiw_poster.pdf
+
   - title: "Conformal Prediction for Zero-Shot Models"
     authors: <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
     conference_short: CVPR'25
     conference: <strong>CVPR</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.24693
     code: https://github.com/jusiro/CLIP-Conformal
+    stars: https://img.shields.io/github/stars/jusiro/CLIP-Conformal?style=social&label=Stars
     page: https://jusiro.github.io/projects/confot
     image: ./assets/img/publications/25_cvpr_teaser.png
     bibtex: ./assets/bibtexts/25_cvpr.bib
@@ -15,7 +55,7 @@ main:
     authors: <strong>Julio Silva-Rodríguez</strong>, Leo Fillioux, Paul-Henry Cournède, Maria Vakalopoulou, Stergios Christodoulidis, Ismail Ben Ayed, Jose Dolz
     conference_short: IPMI'25
     conference: <strong>IPMI</strong>, 2025.
-    pdf: https://arxiv.org/pdf/xxxx.xxxx.pdf
+    pdf: https://arxiv.org/abs/2506.06076.pdf
     code: https://github.com/jusiro/FCA
     notes: -Oral
     image: ./assets/img/publications/25_ipmi_fca_teaser.png
@@ -34,24 +74,13 @@ main:
     slides: ./assets/files/slides/25_ipmi_dlilp_slides.pdf
     poster: ./assets/files/posters/25_ipmi_dlilp_poster.pdf
 
-  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
-    conference_short: MedIA
-    conference: Medical Image Analysis, 2025.
-    pdf: https://arxiv.org/pdf/2303.17051.pdf
-    code: https://github.com/jusiro/fewshot-finetuning
-    page: https://jusiro.github.io/projects/fseft.html
-    image: ./assets/img/publications/23_fseft_teaser.png
-    bibtex: ./assets/bibtexts/25_fseft.bib
-    slides: ./assets/files/slides/23_miccaiw_slides.pdf
-    poster: ./assets/files/posters/23_miccaiw_poster.pdf
-
   - title: "A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision"
     authors: <strong>Julio Silva-Rodríguez</strong>, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed
     conference_short: MedIA
     conference: Medical Image Analysis, 2025.
     pdf: https://arxiv.org/pdf/2308.07898.pdf
     code: https://github.com/jusiro/FLAIR
+    stars: https://img.shields.io/github/stars/jusiro/FLAIR?style=social&label=Stars
     page: https://jusiro.github.io/projects/flair
     image: ./assets/img/publications/25_flair_teaser.png
     bibtex: ./assets/bibtexts/25_flair.bib
@@ -64,6 +93,7 @@ main:
     conference: <strong>MICCAI</strong>, 2024.
     pdf: https://arxiv.org/abs/2409.03868
     code: https://github.com/FereshteShakeri/few-shot-MedVLMs
+    stars: https://img.shields.io/github/stars/FereshteShakeri/few-shot-MedVLMs?style=social&label=Stars
     notes: -Spotlight
     image: ./assets/img/publications/24_miccai_vlms_teaser.png
     bibtex: ./assets/bibtexts/24_miccai_vlms.bib
@@ -76,6 +106,7 @@ main:
     conference: <strong>MICCAI</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.12364
     code: https://github.com/Bala93/CRac
+    stars: https://img.shields.io/github/stars/Bala93/CRac?style=social&label=Stars
     image: ./assets/img/publications/24_miccai_calib_teaser.png
     bibtex: ./assets/bibtexts/24_miccai_calib.bib
     poster: ./assets/files/posters/24_miccai_calib_poster.pdf
@@ -86,6 +117,7 @@ main:
     conference: <strong>ECCV</strong>, 2024.
     pdf: https://arxiv.org/abs/2407.13588
     code: https://github.com/Bala93/CLIPCalib
+    stars: https://img.shields.io/github/stars/Bala93/CLIPCalib?style=social&label=Stars
     image: ./assets/img/publications/24_eccv_teaser.png
     bibtex: ./assets/bibtexts/24_eccv.bib
     poster: ./assets/files/posters/24_eccv_poster.pdf
@@ -96,6 +128,7 @@ main:
     conference: <strong>CVPR</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.12730.pdf
     code: https://github.com/jusiro/CLAP
+    stars: https://img.shields.io/github/stars/jusiro/CLAP?style=social&label=Stars
     page: https://jusiro.github.io/projects/clap
     image: ./assets/img/publications/24_cvpr_teaser.png
     bibtex: ./assets/bibtexts/24_cvpr.bib
@@ -108,17 +141,9 @@ main:
     conference: Medical Image Analysis, 2022.
     pdf: https://arxiv.org/pdf/2203.01671.pdf
     code: https://github.com/jusiro/constrained_anomaly_segmentation
+    stars: https://img.shields.io/github/stars/jusiro/constrained_anomaly_segmentation?style=social&label=Stars
     image: ./assets/img/publications/22_media_teaser.png
     bibtex: ./assets/bibtexts/22_media.bib
-
-  - title: "Self-learning for weakly supervised Gleason grading of local patterns"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Adrian Colomer, Jose Dolz, Valery Naranjo
-    conference_short: JBHI
-    conference: IEEE-Journal of Biomedical and Health Informatics, 2021.
-    pdf: https://arxiv.org/pdf/2105.10420.pdf
-    code: https://github.com/jusiro/mil_histology
-    image: ./assets/img/publications/21_jbhi_teaser.png
-    bibtex: ./assets/bibtexts/21_jbhi.bib
 
   - title: "Going deeper through the Gleason scoring scale: An automatic end-to-end system for histology prostate grading and cribriform pattern detection"
     authors: <strong>Julio Silva-Rodríguez</strong>, Adrian Colomer, Maria A. Sales, Rafael Molina, Valery Naranjo

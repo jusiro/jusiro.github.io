@@ -1,69 +1,76 @@
 main:
 
-  - title: "11. Towards Multi-Modal Foundation Models for Retinal Image Analysis"
-    venue: APTOS-JSAIO'25 - invited faculty symposium on foundation models.
-    date: Osaka, 06/25
+  - title: "Uncertainty Quantification for Medical Foundation Models"
+    venue: "MICCAI'25 Tutorials: Uncertainty Quantification in Medical Image Analysis (UQinMIA)"
+    date: <strong>[09/25]</strong> Daejeon, Korea 🇰🇷
+    website: https://sites.google.com/view/uqinmia-miccai-2025/
 
-  - title: "10. Full Conformal Adaptation of Medical Vision-Language Models"
+  - title: "Towards Multi-Modal Foundation Models for Retinal Image Analysis"
+    venue: APTOS-JSAIO'25 - invited faculty symposium on foundation models.
+    date: <strong>[06/25]</strong> Osaka, Japan 🇯🇵
+    slides: ./assets/files/slides/25_aptos_slides.pdf
+    website: https://2025.asiateleophth.org/program-schedule/
+
+  - title: "Full Conformal Adaptation of Medical Vision-Language Models"
     venue: "IPMI'25 Oral Presentation"
-    date: Kos, 05/25
+    date: <strong>[05/25]</strong> Kos, Greece 🇬🇷
     slides: ./assets/files/slides/25_ipmi_fca_slides.pdf
     website: ./assets/files/slides/25_ipmi_fca_slides.pdf
 
-  - title: "9. Towards Trustworthy Vision-Language Models trough Conformal Prediction"
+  - title: "Towards Trustworthy Vision-Language Models trough Conformal Prediction"
     venue: CentraleSupélec - Mathematics and Bioinformathics (MICS) research group.
-    date: Paris, 01/25
+    date: <strong>[01/25]</strong> Paris, France 🇫🇷
     slides: ./assets/files/talks/slides/25_centralesupelec_conformal_slides.pdf
     website: ./assets/files/talks/slides/25_centralesupelec_conformal_slides.pdf
 
-  - title: "8. Conformal Prediction for Zero-Shot Models"
+  - title: "Conformal Prediction for Zero-Shot Models"
     venue: Sorbonne Université - Institut des Systèmes Intelligents et Robotique (ISIR).
-    date: Paris, 01/25
+    date: <strong>[01/25]</strong> Paris, France 🇫🇷
     slides: ./assets/files/talks/slides/25_sorbonne_conformal_slides.pdf
     website: ./assets/files/talks/slides/25_sorbonne_conformal_slides.pdf
 
-  - title: "7. Foundation Models for Volumetric Medical Image Segmentation"
+  - title: "Foundation Models for Volumetric Medical Image Segmentation"
     venue: "MICCAI'24 Tutorials: Foundation Models For Medical Imaging (FOMMIA)"
-    date: Marrakech, 10/24
+    date: <strong>[10/24]</strong> Marrakech, Morocco 🇲🇦
     slides: ./assets/files/talks/slides/24_miccai_fomia_segmentation_slides.pdf
     website: https://sites.google.com/view/miccai-2024-tutorial
 
-  - title: "6. Few-Shot Adaptation of Medical Vision-Language Models"
+  - title: "Few-Shot Adaptation of Medical Vision-Language Models"
     venue: "MICCAI'24 Spotlight Presentation"
-    date: Marrakech, 10/24
+    date: <strong>[10/24]</strong> Marrakech, Morocco 🇲🇦
     slides: ./assets/files/talks/slides/24_miccai_vlms_slides.pdf
     website: ./assets/files/talks/slides/24_miccai_vlms_slides.pdf
 
-  - title: "5. Hands-on: Few-Shot Adaptation of Medical VLMs"
+  - title: "Hands-on: Few-Shot Adaptation of Medical VLMs"
     venue: <a href="https://event.fourwaves.com/dlmi2024/pages"><autocolor>Summer School on Deep Learning for Medical Imaging (DLMI) - ÉTS Montréal (<strong>MICCAI</strong> endorsed).</autocolor></a>
-    date: Montréal, 07/24
+    date: <strong>[07/24]</strong> Montréal, Canada 🇨🇦
     slides: ./assets/files/talks/slides/24_dlmi_handson_slides.pdf
     code: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials
     website: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials
 
-  - title: "4. A Reality Check of Vision-Language Pre-training in Radiology"
+  - title: "A Reality Check of Vision-Language Pre-training in Radiology"
     venue: Montréal 2024 Medical Imaging Workshop.
-    date: Montréal, 05/24
+    date: <strong>[05/24]</strong> Montréal, Canada 🇨🇦
     slides: ./assets/files/talks/slides/24_montreal_seminar_medical_slides.pdf
     website: ./assets/files/talks/slides/24_montreal_seminar_medical_slides.pdf
 
-  - title: "3. A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
+  - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
     venue: <a href="https://www.youtube.com/watch?v=jZg-vsG8alU"><autocolor>Interview at CVPR'24 Pre-show - Voxel51.</autocolor></a>
-    date: Online, 04/24
+    date: <strong>[04/24]</strong> Online 🌐
     slides: ./assets/files/talks/slides/24_cvpr_slides.pdf
     website: https://www.youtube.com/watch?v=jZg-vsG8alU
     posts: https://voxel51.com/blog/cvpr-2024-survival-guide-five-vision-language-papers-you-dont-want-to-miss/
     medium: https://datascienceharp.medium.com/clap-enhancing-linear-probing-for-efficient-few-shot-learning-in-vision-language-models-2681c01a699d
     video: https://www.youtube.com/watch?v=jZg-vsG8alU
 
-  - title: "2. FLAIR: A Foundation Vision-Language Model of the Retina"
+  - title: "FLAIR: A Foundation Vision-Language Model of the Retina"
     venue: Montréal 2023 Medical Imaging Workshop.
-    date: Montréal, 10/23
+    date: <strong>[10/23]</strong> Montréal, Canada 🇨🇦
     slides: ./assets/files/talks/slides/23_ets_medical_workshop_october_slides.pdf
     website: ./assets/files/talks/slides/23_ets_medical_workshop_october_slides.pdf
 
-  - title: "1. Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
+  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
     venue: "MICCAIw'23: Int. Workshop on Foundation Models for General Medical AI (MedAGI)"
-    date: Vancouver, 10/23
+    date: <strong>[10/23]</strong> Vancouver, Canada 🇨🇦
     slides: ./assets/files/talks/slides/23_miccaiw_slides.pdf
     website: https://medagi2023.github.io/#/

@@ -3,7 +3,7 @@
 
 <h2 id="publications" style="margin: 2px 0px -15px;"></h2>
 
-<div class="publications" style="height: 580px; overflow: auto;">
+<div class="publications" style="height: 800px; overflow: auto;">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
@@ -21,13 +21,16 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px; font-size:15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="periodical"><em>{{ link.conference }}</em> &nbsp;
+      {% if link.stars %} 
+      <a href="{{ link.code }}"><img src="{{ link.stars }}" alt="" /> </a>
+      {% endif %}
       </div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
-      {% if link.code %} 
+      {% if link.code %}
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.page %} 

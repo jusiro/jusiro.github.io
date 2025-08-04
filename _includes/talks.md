@@ -3,7 +3,7 @@
 
 <h2 id="publications" style="margin: 2px 0px -15px;"></h2>
 
-<div class="publications" style="height: 160px; overflow: auto;">
+<div class="publications" style="height: 310px; overflow: auto;">
 <ol class="bibliography">
 
 {% for link in site.data.talks.main %}
