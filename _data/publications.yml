@@ -15,6 +15,7 @@ main:
     conference: <strong>MICCAI</strong>, 2025.
     pdf: https://arxiv.org/abs/2506.17503
     code: https://github.com/jusiro/SCA-T
+    stars: https://img.shields.io/github/stars/jusiro/SCA-T?style=social&label=Stars
     image: ./assets/img/publications/25_miccai_scat_teaser.svg
 
   - title: "Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation."
@@ -22,7 +23,7 @@ main:
     conference_short: MICCAI'25
     conference: <strong>MICCAI</strong>, 2025.
     pdf: https://arxiv.org/abs/2507.15793
-    code: https://github.com/jusiro/SCA-T
+    code: https://github.com/ghassenbaklouti/ARENA
     stars: https://img.shields.io/github/stars/ghassenbaklouti/ARENA?style=social&label=Stars
     image: ./assets/img/publications/25_miccai_arena_teaser.svg
 
@@ -57,6 +58,7 @@ main:
     conference: <strong>IPMI</strong>, 2025.
     pdf: https://arxiv.org/abs/2506.06076.pdf
     code: https://github.com/jusiro/FCA
+    stars: https://img.shields.io/github/stars/jusiro/FCA?style=social&label=Stars
     notes: -Oral
     image: ./assets/img/publications/25_ipmi_fca_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_fca.bib
@@ -68,6 +70,7 @@ main:
     conference: <strong>IPMI</strong>, 2025.
     pdf: https://arxiv.org/abs/2504.05227
     code: https://github.com/jusiro/DLILP
+    stars: https://img.shields.io/github/stars/jusiro/DLILP?style=social&label=Stars
     page: https://jusiro.github.io/projects/dlilp.html
     image: ./assets/img/publications/25_ipmi_dlilp_teaser.png
     bibtex: ./assets/bibtexts/25_ipmi_dlilp.bib
