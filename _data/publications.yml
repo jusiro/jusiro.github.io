@@ -1,5 +1,14 @@
 main:
 
+  - title: "ViLU: Learning Vision-Language Uncertainties for Failure Prediction."
+    authors: Marc Lafon, Yannis Karmim, <strong>Julio Silva-Rodríguez</strong>, Paul Couairon, Clément Rambour, Raphaël Fournier-Sniehotta, Ismail Ben Ayed, Jose Dolz, Nicolas Thome
+    conference_short: ICCV'25
+    conference: <strong>ICCV</strong>, 2025.
+    pdf: https://arxiv.org/abs/2507.07620
+    code: https://github.com/ykrmm/ViLU
+    stars: https://img.shields.io/github/stars/ykrmm/ViLU?style=social&label=Stars
+    image: ./assets/img/publications/25_iccv_vilu_teaser.png
+
   - title: "Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation."
     authors: <strong>Julio Silva-Rodríguez</strong>, Fereshteh Shakeri, Houda Bahig, Jose Dolz, Ismail Ben Ayed
     conference_short: MICCAI'25
