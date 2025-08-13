@@ -8,7 +8,7 @@ main:
   - title: "Towards Multi-Modal Foundation Models for Retinal Image Analysis"
     venue: APTOS-JSAIO'25 - invited faculty symposium on foundation models.
     date: <strong>[06/25]</strong> Osaka, Japan 🇯🇵
-    slides: ./assets/files/slides/25_aptos_slides.pdf
+    slides: ./assets/files/talks/slides/25_aptos_slides.pdf
     website: https://2025.asiateleophth.org/program-schedule/
 
   - title: "Full Conformal Adaptation of Medical Vision-Language Models"
