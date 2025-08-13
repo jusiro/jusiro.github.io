@@ -1,7 +1,7 @@
 main:
 
   - title: "ViLU: Learning Vision-Language Uncertainties for Failure Prediction."
-    authors: Marc Lafon, Yannis Karmim, <strong>Julio Silva-Rodríguez</strong>, Paul Couairon, Clément Rambour, Raphaël Fournier-Sniehotta, Ismail Ben Ayed, Jose Dolz, Nicolas Thome
+    authors: Marc Lafon, Yannis Karmim, <strong>Julio Silva-Rodríguez</strong>, ... , Ismail Ben Ayed, Jose Dolz, Nicolas Thome
     conference_short: ICCV'25
     conference: <strong>ICCV</strong>, 2025.
     pdf: https://arxiv.org/abs/2507.07620
