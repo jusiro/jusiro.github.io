@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2507.07620
     code: https://github.com/ykrmm/ViLU
     stars: https://img.shields.io/github/stars/ykrmm/ViLU?style=social&label=Stars
-    image: ./assets/img/publications/25_iccv_vilu_teaser.png
+    image: ./assets/img/publications/25_iccv_vilu_teaser.svg
 
   - title: "Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation."
     authors: <strong>Julio Silva-Rodríguez</strong>, Fereshteh Shakeri, Houda Bahig, Jose Dolz, Ismail Ben Ayed
