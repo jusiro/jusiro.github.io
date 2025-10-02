@@ -5,6 +5,11 @@ main:
     date: <strong>[09/25]</strong> Daejeon, Korea 🇰🇷
     website: https://sites.google.com/view/uqinmia-miccai-2025/
 
+  - title: "Foundational models for segmentation"
+    venue: "MICCAI'25 Tutorials: From Foundational to Multimodal Models for Medical Imaging (FMLLM)"
+    date: <strong>[09/25]</strong> Daejeon, Korea 🇰🇷
+    website: https://sites.google.com/view/miccai-2025-tutorial
+
   - title: "Towards Multi-Modal Foundation Models for Retinal Image Analysis"
     venue: APTOS-JSAIO'25 - invited faculty symposium on foundation models.
     date: <strong>[06/25]</strong> Osaka, Japan 🇯🇵

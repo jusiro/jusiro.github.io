@@ -5,13 +5,16 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
-            <strong>[07/25]</strong> 🆕📢 I will give a talk on the <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> tutorial in MICCAI'25 about conformal prediction applied to medical foundation models.
+            <strong>[10/25]</strong> 🆕 I am starting a postdoctoral researcher position at the <a href="https://bmic.ee.ethz.ch/">BMIC Lab</a>, at ETH Zurich.
         </li>
         <li>
-            <strong>[06/25]</strong> 🆕📢 We will be presenting 3 papers at MICCAI'25 (see below for more info).
+            <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (how to apply conformal prediction to medical vision-language models) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical image segmentation).
         </li>
         <li>
-            <strong>[05/25]</strong> 🆕📢 One paper early-accepted at MICCAI'25 - see you in Daejeon!
+            <strong>[06/25]</strong> We will be presenting 3 papers at MICCAI'25 (see below for more info).
+        </li>
+        <li>
+            <strong>[05/25]</strong> One paper early-accepted at MICCAI'25 - see you in Daejeon!
         </li>
         <li>
             <strong>[02/25]</strong> Our work on conformal prediction for VLMs has been accepted at CVPR'25.
