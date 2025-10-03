@@ -5,7 +5,7 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
-            <strong>[10/25]</strong> 🆕 I am starting a postdoctoral researcher position at the <a href="https://bmic.ee.ethz.ch/">BMIC Lab</a>, at ETH Zurich.
+            <strong>[10/25]</strong> 🆕 I am starting a postdoc position at the <a href="https://bmic.ee.ethz.ch/">BMIC Lab</a>, at ETH Zurich.
         </li>
         <li>
             <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (how to apply conformal prediction to medical vision-language models) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical image segmentation).
