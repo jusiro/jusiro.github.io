@@ -3,6 +3,7 @@ main:
   - title: "Uncertainty Quantification for Medical Foundation Models"
     venue: "MICCAI'25 Tutorials: Uncertainty Quantification in Medical Image Analysis (UQinMIA)"
     date: <strong>[09/25]</strong> Daejeon, Korea 🇰🇷
+    slides: ./assets/files/talks/slides/25_miccai_uqinmia_slides.pdf
     website: https://sites.google.com/view/uqinmia-miccai-2025/
 
   - title: "Foundational models for segmentation"
