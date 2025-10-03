@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb95a0f9-a3c0-4aab-a765-5b4908e83004" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/files/talks/slides/25_miccai_uqinmia_slides.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/talks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/talks.yml" afterDir="false" />
-    </list>
+    <list default="true" id="eb95a0f9-a3c0-4aab-a765-5b4908e83004" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +36,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/files/talks/slides" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,7 +58,7 @@
       <updated>1759421420087</updated>
       <workItem from="1759421432403" duration="2084000" />
       <workItem from="1759429629230" duration="2241000" />
-      <workItem from="1759470118963" duration="3094000" />
+      <workItem from="1759470118963" duration="4009000" />
     </task>
     <servers />
   </component>

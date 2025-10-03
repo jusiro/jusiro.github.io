@@ -9,6 +9,7 @@ main:
   - title: "Foundational models for segmentation"
     venue: "MICCAI'25 Tutorials: From Foundational to Multimodal Models for Medical Imaging (FMLLM)"
     date: <strong>[09/25]</strong> Daejeon, Korea 🇰🇷
+    slides: ./assets/files/talks/slides/25_miccai_FMLLM_AM_M4.pdf
     website: https://sites.google.com/view/miccai-2025-tutorial
 
   - title: "Towards Multi-Modal Foundation Models for Retinal Image Analysis"
