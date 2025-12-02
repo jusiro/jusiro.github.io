@@ -2,7 +2,7 @@
 ---
 
 <div style="text-align: justify ">
-AI researcher specializing in computer vision and medical image computing. Currently developing foundation models tailored for medical imaging — exploring few-shot, parameter-efficient adaptation and uncertainty quantification. Passionate about building scalable, real-world AI systems that push the boundaries of healthcare and imaging.
+Machine learning researcher specializing in computer vision and medical image computing. Currently developing foundation models tailored for medical imaging — exploring few-shot, parameter-efficient adaptation and uncertainty quantification.
 </div>
 
 <div style="line-height:50%;">
