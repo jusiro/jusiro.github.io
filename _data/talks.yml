@@ -53,8 +53,8 @@ main:
     venue: <a href="https://event.fourwaves.com/dlmi2024/pages"><autocolor>Summer School on Deep Learning for Medical Imaging (DLMI) - ÉTS Montréal (<strong>MICCAI</strong> endorsed).</autocolor></a>
     date: <strong>[07/24]</strong> Montréal, Canada 🇨🇦
     slides: ./assets/files/talks/slides/24_dlmi_handson_slides.pdf
-    code: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials
-    website: https://github.com/jusiro/PEFT-MedVLMs/tree/main/tutorials
+    code: https://1drv.ms/f/c/012ee12cadd5b31d/IgCKFee9xLc9S6dbuSqdNNDXASZ2SuK8ChYRXMHXmQiiqZg?e=amVCbt
+    website: https://1drv.ms/f/c/012ee12cadd5b31d/IgCKFee9xLc9S6dbuSqdNNDXASZ2SuK8ChYRXMHXmQiiqZg?e=amVCbt
 
   - title: "A Reality Check of Vision-Language Pre-training in Radiology"
     venue: Montréal 2024 Medical Imaging Workshop.
