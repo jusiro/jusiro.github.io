@@ -1,7 +1,7 @@
 main:
 
   - title: "A Foundation Language-Image Model of the Retina (FLAIR): Encoding Expert Knowledge in Text Supervision"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed
+    authors: <strong>Julio Silva-Rodríguez et al.</strong>
     conference_short: MedIA
     conference: Medical Image Analysis, 2025.
     pdf: https://arxiv.org/pdf/2308.07898.pdf
