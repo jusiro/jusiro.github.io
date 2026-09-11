@@ -12,7 +12,7 @@ main:
     bibtex: ./assets/bibtexts/25_flair.bib
     slides: ./assets/files/slides/25_media_flair_slides.pdf
     poster: ./assets/files/posters/25_media_flair_poster.pdf
-    notes: -Weights (>500 downloads/month)
+    notes: -Open weights (>500 downloads/month)
 
   - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
     authors: <strong>Julio Silva-Rodríguez et al.</strong>
