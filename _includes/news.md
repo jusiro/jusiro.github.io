@@ -14,10 +14,10 @@
             <strong>[01/26]</strong> 🆕 I have been awarded with the ETH Zurich Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
         </li>
         <li>
-            <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich.
+            <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich <span style="display: inline-block; white-space: nowrap;"> &#128747; </span>.
         </li>
         <li>
-            <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (conformal adaptation of medical vision-language models) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical segmentation).
+            <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (conformal adaptation of medical VLMs) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical segmentation).
         </li>
         <li>
             <strong>[06/25]</strong> We will be presenting 3 papers at MICCAI'25.
@@ -62,7 +62,7 @@
             <strong>[06/20]</strong> Our article on prostate histology grading - SICAPv2 dataset - is accepted at CMPB.
         </li> 
         <li>
-            <strong>[09/19]</strong> I have been awarded with a 4-years PhD research personnel training grant (FPI) from the Spanish Goverment <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>.
+            <strong>[09/19]</strong> Awarded with a 4-years PhD training grant (FPI) from the Spanish Research Agency <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>.
         </li> 
         <li>
             <strong>[09/19]</strong> Started my PhD studies under supervision of Prof. Valery Naranjo.
