@@ -7,9 +7,9 @@
 
 <div style="text-align: justify; margin:0;"> <ul style="text-align: justify; margin-bottom:10px;"> <li> <strong>Improve reliability under data constraints.</strong> </li> <li> <strong>Control and monitor model performance at deployment.</strong> </li> </ul> </div>
 
-<div style="text-align: justify;"> Currently, my main research directions involve computer vision and medical imaging, more specifically: </div>
+<div style="text-align: justify;"> Currently, my main research interests involve computer vision and medical imaging, more specifically: </div>
 
-<div style="text-align: justify; margin:0;"> <ul style="text-align: justify; margin-bottom:10px;"> <li> <strong>Specialized vision-language models for medical imaging.</strong> </li> <li> <strong>Conformal prediction and related frameworks providing statistically grounded guarantees.</strong> </li> </ul> </div>
+<div style="text-align: justify; margin:0;"> <ul style="text-align: justify; margin-bottom:10px;"> <li> <strong>Specialized vision-language models pre-training and adaptation.</strong> </li> <li> <strong>Conformal prediction and related frameworks providing statistically grounded guarantees.</strong> </li> </ul> </div>
 
 <div style="line-height:50%;"> <br> </div>
 
