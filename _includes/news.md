@@ -17,7 +17,7 @@
             <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich.
         </li>
         <li>
-            <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (how to apply conformal prediction to medical vision-language models) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical image segmentation).
+            <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (conformal adaptation of medical vision-language models) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical segmentation).
         </li>
         <li>
             <strong>[06/25]</strong> We will be presenting 3 papers at MICCAI'25.
@@ -41,10 +41,10 @@
             <strong>[03/24]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR'24.
         </li> 
         <li>
-            <strong>[08/23]</strong> Our paper on medicla foundation models got the best-paper-award at MICCAI-MedAGI 2023.
+            <strong>[08/23]</strong> Best paper award at the 1st MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
         </li> 
         <li>
-            <strong>[04/23]</strong> I have been awarded with the Postdoctoral Merit Scholarship for Foreign Students (PBEEE) from the Fonds de recherche du Québec (FRQ)! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
+            <strong>[04/23]</strong> Awarded the Postdoctoral Merit Scholarship for Foreign Students (PBEEE) from the Fonds de recherche du Québec (FRQ)! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
         </li> 
         <li>
             <strong>[01/23]</strong> I started working as a Postdoctoral Fellow at ÉTS Montréal <span style="display: inline-block; white-space: nowrap;"> &#128747; </span>.
