@@ -25,7 +25,5 @@ layout: homepage
 <hr style="height:2px; visibility:hidden;" />
 
 <p><center>
-    <a href='https://clustrmaps.com/site/1c5cm'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=p5yH_wWkzv36A66-zF0i4nil92bXzKwVvRNbZHG4MbM&co=2d78ad&ct=ffffff'/></a>
-    <br>
-    Last updated: October 2025
+    Last updated: September 2026
 </center></p>

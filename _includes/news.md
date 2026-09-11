@@ -5,13 +5,22 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
-            <strong>[10/25]</strong> 🆕 I am starting a postdoc position at the <a href="https://bmic.ee.ethz.ch/">BMIC Lab</a>, at ETH Zurich.
+            <strong>[06/26]</strong> 🆕 One paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+        </li>
+        <li>
+            <strong>[03/26]</strong> 🆕 Appointed as Area Chair at MICCAI.
+        </li>
+        <li>
+            <strong>[03/26]</strong> 🆕 I have been awarded with the ETHZ Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
+        </li>
+        <li>
+            <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich.
         </li>
         <li>
             <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (how to apply conformal prediction to medical vision-language models) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical image segmentation).
         </li>
         <li>
-            <strong>[06/25]</strong> We will be presenting 3 papers at MICCAI'25 (see below for more info).
+            <strong>[06/25]</strong> We will be presenting 3 papers at MICCAI'25.
         </li>
         <li>
             <strong>[05/25]</strong> One paper early-accepted at MICCAI'25 - see you in Daejeon!
@@ -32,7 +41,7 @@
             <strong>[03/24]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR'24.
         </li> 
         <li>
-            <strong>[08/23]</strong> Our paper about few-shot fine-tuning is accepted to MICCAI-MedAGI 2023.
+            <strong>[08/23]</strong> Our paper on medicla foundation models got the best-paper-award at MICCAI-MedAGI 2023.
         </li> 
         <li>
             <strong>[04/23]</strong> I have been awarded with the Postdoctoral Merit Scholarship for Foreign Students (PBEEE) from the Fonds de recherche du Québec (FRQ)! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
