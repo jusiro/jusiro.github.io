@@ -12,6 +12,7 @@ main:
     bibtex: ./assets/bibtexts/25_flair.bib
     slides: ./assets/files/slides/25_media_flair_slides.pdf
     poster: ./assets/files/posters/25_media_flair_poster.pdf
+    notes: -Weights (>500 downloads/month)
 
   - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
     authors: <strong>Julio Silva-Rodríguez et al.</strong>
@@ -95,7 +96,7 @@ main:
     poster: ./assets/files/posters/23_miccaiw_poster.pdf
 
   - title: "Going deeper through the Gleason scoring scale: An automatic end-to-end system for histology prostate grading and cribriform pattern detection"
-    authors: <strong>Julio Silva-Rodríguez et al.</strong>, ..., Valery Naranjo
+    authors: <strong>Julio Silva-Rodríguez et al.</strong>
     conference_short: CMPB
     conference: Computer Methods and Programs in Biomedicine, 2020.
     pdf: https://arxiv.org/pdf/2105.10490.pdf
@@ -103,4 +104,4 @@ main:
     dataset: https://data.mendeley.com/datasets/9xxm58dvs3/2
     image: ./assets/img/publications/20_cmpb_teaser.png
     bibtex: ./assets/bibtexts/20_cmpb.bib
-    notes: -SICAPv2 (+1K downloads)
+    notes: -SICAPv2 (+1.8K downloads)
