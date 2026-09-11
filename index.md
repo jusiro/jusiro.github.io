@@ -13,14 +13,6 @@ layout: homepage
 {% include_relative _includes/talks.md %}
 <hr style="height:2px; visibility:hidden;" />
 
-<!--
-{% include_relative _includes/services.md %}
-<hr style="height:2px; visibility:hidden;" />
-
-{% include_relative _includes/recognitions.md %}
-<hr style="height:2px; visibility:hidden;" />
--->
-
 ---
 <hr style="height:2px; visibility:hidden;" />
 
