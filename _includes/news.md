@@ -23,7 +23,7 @@
             <strong>[06/25]</strong> We will be presenting 3 papers at MICCAI'25.
         </li>
         <li>
-            <strong>[05/25]</strong> One paper early-accepted at MICCAI'25 - see you in Daejeon!
+            <strong>[05/25]</strong> One paper early-accepted at MICCAI'25 - see you in Daejeon! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
         </li>
         <li>
             <strong>[02/25]</strong> Our work on conformal prediction for VLMs has been accepted at CVPR'25.
@@ -50,7 +50,7 @@
             <strong>[01/23]</strong> I started working as a Postdoctoral Fellow at ÉTS Montréal <span style="display: inline-block; white-space: nowrap;"> &#128747; </span>.
         </li> 
         <li>
-            <strong>[10/22]</strong> I defended my PhD Thesis on not-so-supervised learning on medical imaging <span style="display: inline-block; white-space: nowrap;"> &#127891; </span>.
+            <strong>[10/22]</strong> I defended my PhD Thesis in not-so-supervised learning for medical imaging <span style="display: inline-block; white-space: nowrap;"> &#127891; </span>.
         </li>
         <li>
             <strong>[06/22]</strong> Our paper about unsupervised brain lesion segmentation is accepted to MedIA <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
