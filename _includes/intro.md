@@ -17,6 +17,6 @@
 
 <div style="line-height:50%;"> <br> </div>
 
-<div style="text-align: justify; margin:0;"> <strong>I'm always open to new collaborations — drop me an email!</strong> </div>
+<div style="text-align: justify; margin:0;"> I'm always open to new collaborations — drop me an email!</div>
 
 <div style="line-height:100%;"> <br> </div>
