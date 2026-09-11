@@ -50,18 +50,14 @@ main:
     bibtex: ./assets/bibtexts/25_ipmi_fca.bib
     slides: ./assets/files/slides/25_ipmi_dlilp_slides.pdf
 
-  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
-    conference_short: MedIA
-    conference: Medical Image Analysis, 2025.
-    pdf: https://arxiv.org/pdf/2303.17051.pdf
-    code: https://github.com/jusiro/fewshot-finetuning
-    stars: https://img.shields.io/github/stars/jusiro/fewshot-finetuning?style=social&label=Stars
-    page: https://jusiro.github.io/projects/fseft.html
-    image: ./assets/img/publications/23_fseft_teaser.png
-    bibtex: ./assets/bibtexts/25_fseft.bib
-    slides: ./assets/files/slides/23_miccaiw_slides.pdf
-    poster: ./assets/files/posters/23_miccaiw_poster.pdf
+  - title: "Trustworthy Endoscopic Super-Resolution."
+    authors: <strong>Julio Silva-Rodríguez</strong>, Ender Konukoglu
+    conference_short: MICCAI'26
+    conference: <strong>MICCAI</strong>, 2026.
+    pdf: https://arxiv.org/abs/2604.18001
+    code: https://https://github.com/jusiro/Endoscopic-CFM
+    stars: https://img.shields.io/github/stars/jusiro/Endoscopic-CFM?style=social&label=Stars
+    image: ./assets/img/publications/26_miccai_cfm_teaser.png
 
   - title: "Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction."
     authors: <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
@@ -97,6 +93,19 @@ main:
     bibtex: ./assets/bibtexts/24_miccai_vlms.bib
     slides: ./assets/files/slides/24_miccai_vlms_slides.pdf
     poster: ./assets/files/posters/24_miccai_vlms_poster.pdf
+
+  - title: "Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation"
+    authors: <strong>Julio Silva-Rodríguez</strong>, Jose Dolz, Ismail Ben Ayed
+    conference_short: MedIA
+    conference: Medical Image Analysis, 2025.
+    pdf: https://arxiv.org/pdf/2303.17051.pdf
+    code: https://github.com/jusiro/fewshot-finetuning
+    stars: https://img.shields.io/github/stars/jusiro/fewshot-finetuning?style=social&label=Stars
+    page: https://jusiro.github.io/projects/fseft.html
+    image: ./assets/img/publications/23_fseft_teaser.png
+    bibtex: ./assets/bibtexts/25_fseft.bib
+    slides: ./assets/files/slides/23_miccaiw_slides.pdf
+    poster: ./assets/files/posters/23_miccaiw_poster.pdf
 
   - title: "Robust Calibration of Large Vision-Language Models Adapters"
     authors: Balamurali Murugesan, <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
