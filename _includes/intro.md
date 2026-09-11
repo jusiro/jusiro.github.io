@@ -1,7 +1,7 @@
 ## About
 ---
 
-<div style="text-align: justify;"> My research focuses on <strong>developing novel machine learning methods to address key barriers to the trustworthy deployment of AI in computer vision and medical imaging</strong>. My goals are to: </div>
+<div style="text-align: justify;"> My research focuses on <strong>developing novel machine learning methods to address key technical barriers to the trustworthy deployment of AI in computer vision and medical imaging</strong>. My goals are to: </div>
 
 <div style="line-height:50%;"> <br> </div>
 
