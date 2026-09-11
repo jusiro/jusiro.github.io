@@ -12,10 +12,10 @@ My research focuses on developing novel machine learning methods to address key 
 <div style="text-align: justify; margin-bottom:0; margin:0;"> 
     <ul style="text-align: justify; margin-bottom:10px;">
         <li>
-            <strong>Improve learning efficiency under data constraints,</strong> enabling effective model development and adaptation when annotated data are scarce.
+            <strong>Improve learning efficiency under data constraints.</strong>
         </li> 
         <li>
-            <strong>Provide reliability guarantees for deployment,</strong> with an emphasis on statistically grounded control.
+            <strong>Provide safety guarantees for deployment.</strong>.
         </li>
     </ul>
 </div>
@@ -30,7 +30,7 @@ Currently, my main research direction are:
             <strong>Specialized vision-language models for medical imaging.</strong>.
         </li> 
         <li>
-            <strong>Conformal prediction and related frameworks providing statistical guarantees.</strong>
+            <strong>Conformal prediction and related frameworks providing statistically grounded guarantees.</strong>
         </li>
     </ul>
 </div>
