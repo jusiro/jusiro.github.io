@@ -55,7 +55,7 @@ main:
     conference_short: MICCAI'26
     conference: <strong>MICCAI</strong>, 2026.
     pdf: https://arxiv.org/abs/2604.18001
-    code: https://https://github.com/jusiro/Endoscopic-CFM
+    code: https://github.com/jusiro/Endoscopic-CFM
     stars: https://img.shields.io/github/stars/jusiro/Endoscopic-CFM?style=social&label=Stars
     image: ./assets/img/publications/26_miccai_cfm_teaser.png
 
