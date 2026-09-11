@@ -13,7 +13,7 @@
 
 <div style="line-height:50%;"> <br> </div>
 
-<div style="text-align: justify;"> My work spans a broad range of medical imaging domains and modalities, including <strong>histopathology, volumetric radiology, retinal fundus imaging, and real-time endoscopic video.</strong> </div>
+<div style="text-align: justify;"> My work spans a broad range of medical imaging domains and modalities, including: <strong>histopathology, volumetric radiology, retinal fundus imaging, and real-time endoscopic video.</strong> </div>
 
 <div style="line-height:50%;"> <br> </div>
 
