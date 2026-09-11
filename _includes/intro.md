@@ -1,7 +1,7 @@
 ## About
 ---
 
-<div style="text-align: justify;"> My research focuses on developing novel machine learning methods to address key barriers to the clinical adoption of AI in medical image computing. The overarching goals of my research are to: </div>
+<div style="text-align: justify;"> My research focuses on developing <strong>novel machine learning methods to address key barriers to the clinical adoption of AI in medical image computing</strong>. The overarching goals of my research are to: </div>
 
 <div style="line-height:50%;"> <br> </div>
 
