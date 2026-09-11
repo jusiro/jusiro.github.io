@@ -14,7 +14,7 @@ main:
     poster: ./assets/files/posters/25_media_flair_poster.pdf
 
   - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Sina Hajimiri, Ismail Ben Ayed, Jose Dolz
+    authors: <strong>Julio Silva-Rodríguez et al.</strong>
     conference_short: CVPR'24
     conference: <strong>CVPR</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.12730.pdf
@@ -39,7 +39,7 @@ main:
     poster: ./assets/files/posters/25_cvpr_poster.pdf
 
   - title: "Full Conformal Adaptation of Medical Vision-Language Models"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Leo Fillioux, Paul-Henry Cournède, Maria Vakalopoulou, Stergios Christodoulidis, Ismail Ben Ayed, Jose Dolz
+    authors: <strong>Julio Silva-Rodríguez et al.</strong>
     conference_short: IPMI'25
     conference: <strong>IPMI</strong>, 2025.
     pdf: https://arxiv.org/abs/2506.06076.pdf
@@ -95,7 +95,7 @@ main:
     poster: ./assets/files/posters/23_miccaiw_poster.pdf
 
   - title: "Going deeper through the Gleason scoring scale: An automatic end-to-end system for histology prostate grading and cribriform pattern detection"
-    authors: <strong>Julio Silva-Rodríguez</strong>, Adrian Colomer, Maria A. Sales, Rafael Molina, Valery Naranjo
+    authors: <strong>Julio Silva-Rodríguez et al.</strong>, ..., Valery Naranjo
     conference_short: CMPB
     conference: Computer Methods and Programs in Biomedicine, 2020.
     pdf: https://arxiv.org/pdf/2105.10490.pdf
