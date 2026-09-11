@@ -21,7 +21,7 @@ My research focuses on developing novel machine learning methods to address key 
 </div>
 
 <div style="text-align: justify ">
-Currently, my main research direction are: in pre-training specialized vision-language models for medical imaging and enabling their reliable deployment through conformal prediction and related frameworks with statistical guarantees.
+Currently, my main research direction are:
 </div>
 
 <div style="text-align: justify; margin-bottom:0; margin:0;"> 
@@ -30,7 +30,7 @@ Currently, my main research direction are: in pre-training specialized vision-la
             <strong>Specialized vision-language models for medical imaging.</strong>.
         </li> 
         <li>
-            <strong>Their reliable deployment through conformal prediction and related frameworks with statistical guarantees.</strong>
+            <strong>Conformal prediction and related frameworks providing statistical guarantees.</strong>
         </li>
     </ul>
 </div>
