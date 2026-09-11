@@ -11,7 +11,7 @@
             <strong>[03/26]</strong> 🆕 Appointed as Area Chair at MICCAI.
         </li>
         <li>
-            <strong>[03/26]</strong> 🆕 I have been awarded with the ETHZ Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
+            <strong>[03/26]</strong> 🆕 I have been awarded with the ETH Zurich Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
         </li>
         <li>
             <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich.
