@@ -62,7 +62,7 @@
             <strong>[06/20]</strong> Our article on prostate histology grading - SICAPv2 dataset - is accepted at CMPB.
         </li> 
         <li>
-            <strong>[09/19]</strong> Awarded with a 4-years PhD training grant (FPI) from the Spanish Research Agency <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>.
+            <strong>[09/19]</strong> Awarded with a 4-years PhD grant (FPI) from the Spanish Research Agency <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>.
         </li> 
         <li>
             <strong>[09/19]</strong> Started my PhD studies under supervision of Prof. Valery Naranjo.
