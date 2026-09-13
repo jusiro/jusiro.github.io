@@ -26,7 +26,7 @@
             <strong>[05/25]</strong> One paper early-accepted at MICCAI'25 - see you in Daejeon! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
         </li>
         <li>
-            <strong>[02/25]</strong> Our work on conformal prediction for VLMs has been accepted at CVPR'25.
+            <strong>[02/25]</strong> Our work on conformal prediction for VLMs has been accepted at CVPR'25!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[02/25]</strong> We got two papers accepted at IPMI'25 on medical VLMs! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
@@ -38,7 +38,7 @@
             <strong>[05/24]</strong> Two papers accepted at MICCAI'24! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li> 
         <li>
-            <strong>[03/24]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR'24.
+            <strong>[03/24]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR'24!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li> 
         <li>
             <strong>[08/23]</strong> Best paper award at the 1st MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
