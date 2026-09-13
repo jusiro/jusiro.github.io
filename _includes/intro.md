@@ -9,7 +9,7 @@
 
 <div style="text-align: justify;"> Currently, my main research interests involve: </div>
 
-<div style="text-align: justify; margin:0;"> <ul style="text-align: justify; margin-bottom:10px;"> <li> <strong>Specialized vision-language models pre-training and adaptation.</strong> </li> <li> <strong>Conformal prediction and related frameworks providing statistically grounded guarantees.</strong> </li> </ul> </div>
+<div style="text-align: justify; margin:0;"> <ul style="text-align: justify; margin-bottom:10px;"> <li> <strong>Pre-training and adaptation of specialized vision-language models.</strong> </li> <li> <strong>Conformal prediction and related frameworks providing statistically grounded guarantees.</strong> </li> </ul> </div>
 
 <div style="line-height:50%;"> <br> </div>
 
