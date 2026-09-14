@@ -1,5 +1,10 @@
 main:
 
+  - title: "Semi-Supervised Few-Shot Adaptation of Vision-Language Models"
+    venue: "MICCAIw'26: Int. Workshop on Foundation Models for General Medical AI (MedAGI)"
+    date: <strong>[10/26]</strong> Strasbourg, France 🇫🇷
+    website: https://medagi2026.github.io/#/
+
   - title: "Uncertainty Quantification for Medical Foundation Models"
     venue: "MICCAI'25 Tutorials: Uncertainty Quantification in Medical Image Analysis (UQinMIA)"
     date: <strong>[09/25]</strong> Daejeon, Korea 🇰🇷
