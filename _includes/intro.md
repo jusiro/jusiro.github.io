@@ -5,7 +5,7 @@
 
 <div style="line-height:50%;"> <br> </div>
 
-<div style="text-align: justify; margin:0;"> <ul style="text-align: justify; margin-bottom:10px;"> <li> <strong>Improve reliability under data constraints.</strong> </li> <li> <strong>Control and monitor model performance at deployment.</strong> </li> </ul> </div>
+<div style="text-align: justify; margin:0;"> <ul style="text-align: justify; margin-bottom:10px;"> <li> <strong>Improve reliability under data constraints.</strong> </li> <li> <strong>Control and monitor model performance.</strong> </li> </ul> </div>
 
 <div style="text-align: justify;"> Currently, my main research interests involve: </div>
 
