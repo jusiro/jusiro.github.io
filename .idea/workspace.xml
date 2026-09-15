@@ -29,10 +29,12 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/jusilva/Documents/Julio/jusiro.github.io/assets/files/posters",
+    "last_opened_file_path": "/home/jusilva/Documents/Julio/jusiro.github.io/assets/files/slides",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
@@ -41,8 +43,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/files/slides" />
       <recent name="$PROJECT_DIR$/assets/files/posters" />
       <recent name="$PROJECT_DIR$/assets/img/publications" />
+      <recent name="$PROJECT_DIR$/assets/files/talks/slides" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/files/talks/slides" />
     </key>
   </component>
@@ -83,6 +89,7 @@
       <workItem from="1789388121852" duration="728000" />
       <workItem from="1789389508348" duration="610000" />
       <workItem from="1789470348125" duration="936000" />
+      <workItem from="1789490349756" duration="670000" />
     </task>
     <servers />
   </component>
