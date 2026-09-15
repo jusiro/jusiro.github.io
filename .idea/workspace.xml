@@ -29,7 +29,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/jusilva/Documents/Julio/jusiro.github.io/assets/files/slides",
+    "last_opened_file_path": "/home/jusilva/Documents/Julio/jusiro.github.io/assets/files/talks/slides",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -43,10 +43,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/files/talks/slides" />
       <recent name="$PROJECT_DIR$/assets/files/slides" />
       <recent name="$PROJECT_DIR$/assets/files/posters" />
       <recent name="$PROJECT_DIR$/assets/img/publications" />
-      <recent name="$PROJECT_DIR$/assets/files/talks/slides" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/files/talks/slides" />
@@ -89,7 +89,7 @@
       <workItem from="1789388121852" duration="728000" />
       <workItem from="1789389508348" duration="610000" />
       <workItem from="1789470348125" duration="936000" />
-      <workItem from="1789490349756" duration="670000" />
+      <workItem from="1789490349756" duration="812000" />
     </task>
     <servers />
   </component>
