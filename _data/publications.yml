@@ -1,5 +1,11 @@
 main:
 
+  - title: "Scaling Full Conformal Image Classifiers"
+    authors: <strong>Julio Silva-Rodríguez</strong>, Ender Konukoglu
+    conference_short: NeurIPS'26
+    conference: <strong>NeurIPS</strong>, 2026.
+    image: ./assets/img/publications/25_cvpr_teaser.png
+
   - title: "Conformal Prediction for Zero-Shot Models"
     authors: <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
     conference_short: CVPR'25
@@ -11,16 +17,6 @@ main:
     image: ./assets/img/publications/25_cvpr_teaser.png
     bibtex: ./assets/bibtexts/25_cvpr.bib
     poster: ./assets/files/posters/25_cvpr_poster.pdf
-
-  - title: "Trustworthy Endoscopic Super-Resolution."
-    authors: <strong>Julio Silva-Rodríguez</strong>, Ender Konukoglu
-    conference_short: MICCAI'26
-    conference: <strong>MICCAI</strong>, 2026.
-    pdf: https://arxiv.org/abs/2604.18001
-    code: https://github.com/jusiro/Endoscopic-CFM
-    stars: https://img.shields.io/github/stars/jusiro/Endoscopic-CFM?style=social&label=Stars
-    image: ./assets/img/publications/26_miccai_cfm_teaser.png
-    poster: ./assets/files/posters/26_miccai_poster.pdf
 
   - title: "A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models"
     authors: <strong>Julio Silva-Rodríguez et al.</strong>
@@ -48,6 +44,16 @@ main:
     slides: ./assets/files/slides/25_media_flair_slides.pdf
     poster: ./assets/files/posters/25_media_flair_poster.pdf
     notes: -Open weights (>500 downloads/month)
+
+  - title: "Trustworthy Endoscopic Super-Resolution."
+    authors: <strong>Julio Silva-Rodríguez</strong>, Ender Konukoglu
+    conference_short: MICCAI'26
+    conference: <strong>MICCAI</strong>, 2026.
+    pdf: https://arxiv.org/abs/2604.18001
+    code: https://github.com/jusiro/Endoscopic-CFM
+    stars: https://img.shields.io/github/stars/jusiro/Endoscopic-CFM?style=social&label=Stars
+    image: ./assets/img/publications/26_miccai_cfm_teaser.png
+    poster: ./assets/files/posters/26_miccai_poster.pdf
 
   - title: "Full Conformal Adaptation of Medical Vision-Language Models"
     authors: <strong>Julio Silva-Rodríguez et al.</strong>
