@@ -5,13 +5,16 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
+            <strong>[06/26]</strong> 🆕 One paper accepted at NeurIPS'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+        </li>
+        <li>
             <strong>[06/26]</strong> 🆕 One paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[03/26]</strong> 🆕 Appointed as Area Chair at MICCAI.
+            <strong>[03/26]</strong> Appointed as Area Chair at MICCAI.
         </li>
         <li>
-            <strong>[01/26]</strong> 🆕 I have been awarded with the ETH Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
+            <strong>[01/26]</strong> I have been awarded with the ETH Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
         </li>
         <li>
             <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich <span style="display: inline-block; white-space: nowrap;"> &#128747; </span>.
