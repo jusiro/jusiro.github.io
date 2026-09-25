@@ -45,7 +45,7 @@ main:
     poster: ./assets/files/posters/25_media_flair_poster.pdf
     notes: -Open weights (>500 downloads/month)
 
-  - title: "Trustworthy Endoscopic Super-Resolution."
+  - title: "Trustworthy Endoscopic Super-Resolution"
     authors: <strong>Julio Silva-Rodríguez</strong>, Ender Konukoglu
     conference_short: MICCAI'26
     conference: <strong>MICCAI</strong>, 2026.
@@ -67,7 +67,7 @@ main:
     bibtex: ./assets/bibtexts/25_ipmi_fca.bib
     slides: ./assets/files/slides/25_ipmi_dlilp_slides.pdf
 
-  - title: "Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction."
+  - title: "Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction"
     authors: <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
     conference_short: MICCAI'25
     conference: <strong>MICCAI</strong>, 2025.
@@ -101,6 +101,15 @@ main:
     bibtex: ./assets/bibtexts/25_fseft.bib
     slides: ./assets/files/slides/23_miccaiw_slides.pdf
     poster: ./assets/files/posters/23_miccaiw_poster.pdf
+
+  - title: "Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation"
+    authors: <strong>Julio Silva-Rodríguez et al.</strong>
+    conference_short: MICCAI'25
+    conference: <strong>MICCAI</strong>, 2025.
+    pdf: https://arxiv.org/abs/2506.17500
+    code: https://github.com/jusiro/SS-Text
+    stars: https://img.shields.io/github/stars/jusiro/SS-Text?style=social&label=Stars
+    image: ./assets/img/publications/25_miccai_sstext_teaser.svg
 
   - title: "Going deeper through the Gleason scoring scale: An automatic end-to-end system for histology prostate grading and cribriform pattern detection"
     authors: <strong>Julio Silva-Rodríguez et al.</strong>
