@@ -4,7 +4,7 @@ main:
     authors: <strong>Julio Silva-Rodríguez</strong>, Ender Konukoglu
     conference_short: NeurIPS'26
     conference: <strong>NeurIPS</strong>, 2026.
-    image: ./assets/img/publications/25_cvpr_teaser.png
+    image: ./assets/img/publications/26_neurips_teaser.png
 
   - title: "Conformal Prediction for Zero-Shot Models"
     authors: <strong>Julio Silva-Rodríguez</strong>, Ismail Ben Ayed, Jose Dolz
