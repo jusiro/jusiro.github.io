@@ -5,7 +5,7 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
-            <strong>[06/26]</strong> 🆕 One paper accepted at NeurIPS'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[09/26]</strong> 🆕 One paper accepted at NeurIPS'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[06/26]</strong> 🆕 One paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
