@@ -5,6 +5,7 @@ main:
     date: <strong>[10/26]</strong> Strasbourg, France 🇫🇷
     slides: ./assets/files/talks/slides/26_medagi_slides.pdf
     website: https://medagi2026.github.io/#/
+    notes: -Best Paper Award 🏅
 
   - title: "Uncertainty Quantification for Medical Foundation Models"
     venue: "MICCAI'25 Tutorials: Uncertainty Quantification in Medical Image Analysis (UQinMIA)"
@@ -12,6 +13,7 @@ main:
     slides: ./assets/files/talks/slides/25_miccai_uqinmia_slides.pdf
     code: https://github.com/jusiro/FCA/blob/main/docs/tutorials/uqinmia-miccai-25/conformal_vlms.ipynb
     website: https://sites.google.com/view/uqinmia-miccai-2025/
+    notes: -Invited Keynote
 
   - title: "Foundational models for segmentation"
     venue: "MICCAI'25 Tutorials: From Foundational to Multimodal Models for Medical Imaging (FMLLM)"
@@ -24,6 +26,7 @@ main:
     date: <strong>[06/25]</strong> Osaka, Japan 🇯🇵
     slides: ./assets/files/talks/slides/25_aptos_slides.pdf
     website: https://2025.asiateleophth.org/program-schedule/
+    notes: -Invited Faculty
 
   - title: "Full Conformal Adaptation of Medical Vision-Language Models"
     venue: "IPMI'25 Oral Presentation"
@@ -88,3 +91,4 @@ main:
     date: <strong>[10/23]</strong> Vancouver, Canada 🇨🇦
     slides: ./assets/files/talks/slides/23_miccaiw_slides.pdf
     website: https://medagi2023.github.io/#/
+    notes: -Best Paper Award 🏅
