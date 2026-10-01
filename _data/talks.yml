@@ -20,7 +20,7 @@ main:
     date: <strong>[09/25]</strong> Daejeon, Korea 🇰🇷
     slides: ./assets/files/talks/slides/25_miccai_FMLLM_AM_M4.pdf
     website: https://sites.google.com/view/miccai-2025-tutorial
-    notes: -Co-organizer
+    notes: -Tutorial co-organizer
 
   - title: "Towards Multi-Modal Foundation Models for Retinal Image Analysis"
     venue: APTOS-JSAIO'25 - invited faculty symposium on foundation models.
@@ -52,7 +52,7 @@ main:
     date: <strong>[10/24]</strong> Marrakech, Morocco 🇲🇦
     slides: ./assets/files/talks/slides/24_miccai_fomia_segmentation_slides.pdf
     website: https://sites.google.com/view/miccai-2024-tutorial
-    notes: -Co-organizer
+    notes: -Tutorial co-organizer
 
   - title: "Few-Shot Adaptation of Medical Vision-Language Models"
     venue: "MICCAI'24 Spotlight Presentation"
@@ -66,7 +66,7 @@ main:
     slides: ./assets/files/talks/slides/24_dlmi_handson_slides.pdf
     code: https://1drv.ms/f/c/012ee12cadd5b31d/IgCKFee9xLc9S6dbuSqdNNDXASZ2SuK8ChYRXMHXmQiiqZg?e=amVCbt
     website: https://1drv.ms/f/c/012ee12cadd5b31d/IgCKFee9xLc9S6dbuSqdNNDXASZ2SuK8ChYRXMHXmQiiqZg?e=amVCbt
-    notes: -Co-organizer
+    notes: -Tutorial co-organizer
 
   - title: "A Reality Check of Vision-Language Pre-training in Radiology"
     venue: Montréal 2024 Medical Imaging Workshop.
