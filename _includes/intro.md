@@ -1,7 +1,7 @@
 ## About
 ---
 
-<div style="text-align: justify;"> My research focuses on <strong>developing machine learning methods with quantifiable reliability at deployment, with particular emphasis on computer vision and medical imaging.</strong>  My goals are to: </div>
+<div style="text-align: justify;"> My research focuses on <strong>developing machine learning methods with active reliability at deployment, with particular emphasis on computer vision and medical imaging.</strong>  My goals are to: </div>
 
 <div style="line-height:50%;"> <br> </div>
 
@@ -13,7 +13,7 @@
 
 <div style="line-height:50%;"> <br> </div>
 
-<div style="text-align: justify;"> My work spans a broad range of medical imaging domains and modalities, including: <strong>histopathology, volumetric radiology, retinal fundus imaging, and real-time endoscopic video.</strong> </div>
+<div style="text-align: justify;"> My work spans a broad range of generalist and medical imaging domains and modalities, including: <strong>histopathology, volumetric radiology, retinal fundus imaging, and endoscopic video.</strong> </div>
 
 <div style="line-height:50%;"> <br> </div>
 
