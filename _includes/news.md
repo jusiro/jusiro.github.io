@@ -5,10 +5,13 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
-            <strong>[09/26]</strong> 🆕 Two papers accepted at NeurIPS'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[10/26]</strong> 🆕 Best paper award at the 4th MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
+        </li> 
+        <li>
+            <strong>[09/26]</strong> 🆕 2 papers accepted at NeurIPS'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[06/26]</strong> 🆕 One paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[06/26]</strong> 🆕 1 paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[03/26]</strong> Appointed as Area Chair at MICCAI.
@@ -20,28 +23,28 @@
             <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich <span style="display: inline-block; white-space: nowrap;"> &#128747; </span>.
         </li>
         <li>
-            <strong>[07/25]</strong> I will participate in two MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (conformal adaptation of medical VLMs) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical segmentation).
+            <strong>[07/25]</strong> I will participate in 2 MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (conformal adaptation of medical VLMs) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical segmentation).
         </li>
         <li>
-            <strong>[06/25]</strong> We will be presenting 3 papers at MICCAI'25.
+            <strong>[06/25]</strong> 3 papers accepted at MICCAI'25.
         </li>
         <li>
-            <strong>[05/25]</strong> One paper early-accepted at MICCAI'25 - see you in Daejeon! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
+            <strong>[05/25]</strong> 1 paper early-accepted at MICCAI'25 - see you in Daejeon! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
         </li>
         <li>
-            <strong>[02/25]</strong> Our work on conformal prediction for VLMs has been accepted at CVPR'25!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[02/25]</strong> 1 work on conformal prediction for VLMs has been accepted at CVPR'25!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[02/25]</strong> We got two papers accepted at IPMI'25 on medical VLMs! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[02/25]</strong> 2 papers accepted at IPMI'25 on medical VLMs! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[01/25]</strong> FLAIR, the first VLM for fundus images has finally been published at MedIA <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
         </li> 
         <li>
-            <strong>[05/24]</strong> Two papers accepted at MICCAI'24! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[05/24]</strong> 2 papers accepted at MICCAI'24! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li> 
         <li>
-            <strong>[03/24]</strong> Our work on few-shot CLIP adaptation is accepted to CVPR'24!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[03/24]</strong> 1 work on few-shot CLIP adaptation is accepted to CVPR'24!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li> 
         <li>
             <strong>[08/23]</strong> Best paper award at the 1st MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
@@ -56,10 +59,10 @@
             <strong>[10/22]</strong> I defended my PhD Thesis in not-so-supervised learning for medical imaging <span style="display: inline-block; white-space: nowrap;"> &#127891; </span>.
         </li>
         <li>
-            <strong>[06/22]</strong> Our paper about unsupervised brain lesion segmentation is accepted to MedIA <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
+            <strong>[06/22]</strong> 1 paper about unsupervised brain lesion segmentation is accepted to MedIA <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
         </li>
         <li>
-            <strong>[06/21]</strong> Our paper about weakly supervised WSI grading is accepted to JBHI <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
+            <strong>[06/21]</strong> 1 paper about weakly supervised WSI grading is accepted to JBHI <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
         </li> 
         <li>
             <strong>[06/20]</strong> Our article on prostate histology grading - SICAPv2 dataset - is accepted at CMPB.
