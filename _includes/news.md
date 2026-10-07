@@ -14,13 +14,16 @@
             <strong>[06/26]</strong> 🆕 1 paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[03/26]</strong> Appointed as Area Chair at MICCAI.
+            <strong>[03/26]</strong> Serving as Area Chair at MICCAI.
         </li>
         <li>
-            <strong>[01/26]</strong> I have been awarded with the ETH Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
+            <strong>[01/26]</strong> Awarded with the ETH Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
         </li>
         <li>
-            <strong>[07/25]</strong> I will participate in 2 MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (conformal adaptation of medical VLMs) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical segmentation).
+            <strong>[07/25]</strong> Keynote talk at <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> on conformal prediction for medical VLMs.
+        </li>
+        <li>
+            <strong>[07/25]</strong> Co-organizing <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> tutorial on medical foundation models.
         </li>
         <li>
             <strong>[06/25]</strong> 3 papers accepted at MICCAI'25.
@@ -52,9 +55,6 @@
         <li>
             <strong>[06/22]</strong> 1 paper about unsupervised brain lesion segmentation is accepted to MedIA <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
         </li>
-        <li>
-            <strong>[06/21]</strong> 1 paper about weakly supervised WSI grading is accepted to JBHI <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
-        </li> 
         <li>
             <strong>[06/20]</strong> Our article on prostate histology grading - SICAPv2 dataset - is accepted at CMPB.
         </li>
