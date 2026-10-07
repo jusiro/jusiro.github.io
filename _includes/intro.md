@@ -1,7 +1,7 @@
 ## About
 ---
 
-<div style="text-align: justify;"> My research focuses on <strong>developing machine learning methods with active reliability at deployment, with particular emphasis on computer vision and medical imaging.</strong>  My goals are to: </div>
+<div style="text-align: justify;"> My research focuses on <strong>developing machine learning methods with active reliability at deployment, with particular emphasis on high-stakes computer vision and medical imaging applications.</strong>  My goals are to: </div>
 
 <div style="line-height:50%;"> <br> </div>
 
