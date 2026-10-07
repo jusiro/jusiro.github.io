@@ -20,9 +20,6 @@
             <strong>[01/26]</strong> I have been awarded with the ETH Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
         </li>
         <li>
-            <strong>[10/25]</strong> I am starting a postdoc position at ETH Zurich <span style="display: inline-block; white-space: nowrap;"> &#128747; </span>.
-        </li>
-        <li>
             <strong>[07/25]</strong> I will participate in 2 MICCAI'25 tutorials: <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> (conformal adaptation of medical VLMs) and <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> (foundation models for medical segmentation).
         </li>
         <li>
@@ -51,12 +48,6 @@
         </li> 
         <li>
             <strong>[04/23]</strong> Awarded the Postdoctoral Merit Scholarship for Foreign Students (PBEEE) from the Fonds de recherche du Québec (FRQ)! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
-        </li> 
-        <li>
-            <strong>[01/23]</strong> I started working as a Postdoctoral Fellow at ÉTS Montréal <span style="display: inline-block; white-space: nowrap;"> &#128747; </span>.
-        </li> 
-        <li>
-            <strong>[10/22]</strong> I defended my PhD Thesis in not-so-supervised learning for medical imaging <span style="display: inline-block; white-space: nowrap;"> &#127891; </span>.
         </li>
         <li>
             <strong>[06/22]</strong> 1 paper about unsupervised brain lesion segmentation is accepted to MedIA <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
@@ -66,12 +57,6 @@
         </li> 
         <li>
             <strong>[06/20]</strong> Our article on prostate histology grading - SICAPv2 dataset - is accepted at CMPB.
-        </li> 
-        <li>
-            <strong>[09/19]</strong> Awarded with a 4-years PhD grant (FPI) from the Spanish Research Agency <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>.
-        </li> 
-        <li>
-            <strong>[09/19]</strong> Started my PhD studies under supervision of Prof. Valery Naranjo.
-        </li> 
+        </li>
     </ul>
 </div>
