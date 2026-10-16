@@ -14,7 +14,7 @@
             <strong>[09/26]</strong> 🆕 2 papers accepted at NeurIPS'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[06/26]</strong> 🆕 1 paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[06/26]</strong> 1 paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[03/26]</strong> Serving as Area Chair at MICCAI.
