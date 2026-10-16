@@ -53,7 +53,7 @@
             <strong>[08/23]</strong> Best paper award at the 1st MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
         </li> 
         <li>
-            <strong>[04/23]</strong> Awarded the Postdoctoral Merit Scholarship for Foreign Students (PBEEE) from the Fonds de recherche du Québec (FRQ)! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
+            <strong>[04/23]</strong> Awarded the Postdoctoral Merit Scholarship from the Fonds de recherche du Québec (FRQ)! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
         </li>
         <li>
             <strong>[06/22]</strong> 1 paper about unsupervised brain lesion segmentation is accepted to MedIA <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
