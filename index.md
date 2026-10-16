@@ -17,5 +17,5 @@ layout: homepage
 <hr style="height:2px; visibility:hidden;" />
 
 <p><center>
-    Last updated: September 2026
+    Last updated: October 2026
 </center></p>
