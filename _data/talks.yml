@@ -4,7 +4,7 @@ main:
     venue: "IEEE International Symposium on Biomedical Imaging (ISBI) Tutorials"
     date: <strong>[05/27]</strong> Lausanne, Switzerland 🇨🇭
     website: https://biomedicalimaging.org/2027/tutorials/
-    notes: -Tutorial Lead Organizer
+    notes: Tutorial Lead Organizer
 
   - title: "Semi-Supervised Few-Shot Adaptation of Vision-Language Models"
     venue: "MICCAIw'26: Int. Workshop on Foundation Models for General Medical AI (MedAGI)"

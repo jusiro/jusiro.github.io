@@ -5,6 +5,9 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
+            <strong>[10/26]</strong> 🆕 My tutorial on conformal prediction for reliable medical image computing will be hosted by IEEE ISBI'27 📚
+        </li> 
+        <li>
             <strong>[10/26]</strong> 🆕 Best paper award at the 4th MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
         </li> 
         <li>
