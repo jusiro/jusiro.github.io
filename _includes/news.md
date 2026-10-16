@@ -17,7 +17,7 @@
             <strong>[06/26]</strong> 1 paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[03/26]</strong> Serving as Area Chair at MICCAI.
+            <strong>[03/26]</strong> Serving as Area Chair at MICCAI 🧑🏻‍⚖️
         </li>
         <li>
             <strong>[01/26]</strong> Awarded with the ETH Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
@@ -29,7 +29,7 @@
             <strong>[07/25]</strong> Co-organizing <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> tutorial on medical foundation models 📚
         </li>
         <li>
-            <strong>[06/25]</strong> 3 papers accepted at MICCAI'25.
+            <strong>[06/25]</strong> 3 papers accepted at MICCAI'25  <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
         </li>
         <li>
             <strong>[05/25]</strong> 1 paper early-accepted at MICCAI'25 - see you in Daejeon! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
