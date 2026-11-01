@@ -59,7 +59,7 @@
             <strong>[06/22]</strong> 1 paper about unsupervised brain lesion segmentation published at <ins>MedIA</ins> <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
         </li>
         <li>
-            <strong>[06/20]</strong> Our article on prostate histology grading - SICAPv2 dataset - is accepted at CMPB.
+            <strong>[06/20]</strong> Our article on prostate histology grading - <a href="https://data.mendeley.com/datasets/9xxm58dvs3/2">SICAPv2</a> dataset - published at CMPB.
         </li>
     </ul>
 </div>
