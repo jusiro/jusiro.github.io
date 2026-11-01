@@ -32,9 +32,6 @@
             <strong>[06/25]</strong> 3 papers accepted at <ins>MICCAI</ins>'25  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
         </li>
         <li>
-            <strong>[05/25]</strong> 1 paper early-accepted at MICCAI'25 - see you in Daejeon! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
-        </li>
-        <li>
             <strong>[02/25]</strong> 1 work on conformal prediction for VLMs has been accepted at <ins>CVPR</ins>'25!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
