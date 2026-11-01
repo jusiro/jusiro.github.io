@@ -11,7 +11,7 @@
             <strong>[10/26]</strong> 🆕 Best paper award at the 4th MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
         </li> 
         <li>
-            <strong>[09/26]</strong> 🆕 2 papers accepted at NeurIPS'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[09/26]</strong> 🆕 2 papers accepted at <ins>NeurIPS</ins>'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[06/26]</strong> 1 paper accepted at MICCAI'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
@@ -29,7 +29,7 @@
             <strong>[07/25]</strong> Co-organizing <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> tutorial on medical foundation models 📚
         </li>
         <li>
-            <strong>[06/25]</strong> 3 papers accepted at MICCAI'25  <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
+            <strong>[06/25]</strong> 3 papers accepted at MICCAI'25  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
         </li>
         <li>
             <strong>[05/25]</strong> 1 paper early-accepted at MICCAI'25 - see you in Daejeon! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
