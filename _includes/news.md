@@ -20,9 +20,6 @@
             <strong>[03/26]</strong> Serving as Area Chair at MICCAI 🧑🏻‍⚖️
         </li>
         <li>
-            <strong>[01/26]</strong> Awarded with the ETH Focus Grant! <span style="display: inline-block; white-space: nowrap;"> &#128176; </span>
-        </li>
-        <li>
             <strong>[07/25]</strong> Keynote talk at <a href="https://sites.google.com/view/uqinmia-miccai-2025/">UQinMIA</a> on conformal prediction for medical VLMs 🎤
         </li>
         <li>
