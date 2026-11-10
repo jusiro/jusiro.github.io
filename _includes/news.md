@@ -5,6 +5,9 @@
 <div style="height: 200px; overflow: auto;">
     <ul>
         <li>
+            <strong>[12/26]</strong> 🆕 Serving as Area Chair at MIDL 🧑🏻‍⚖️
+        </li>
+        <li>
             <strong>[10/26]</strong> 🆕 Organizing <a href="https://biomedicalimaging.org/2027/tutorials/">Conformal-MIA</a> Tutorial, hosted by ISBI'27 📚
         </li> 
         <li>
