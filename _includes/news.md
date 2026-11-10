@@ -8,7 +8,7 @@
             <strong>[12/26]</strong> 🆕 Serving as Area Chair at MIDL 🧑🏻‍⚖️
         </li>
         <li>
-            <strong>[10/26]</strong> 🆕 Organizing <a href="https://biomedicalimaging.org/2027/tutorials/">Conformal-MIA</a> Tutorial, hosted by ISBI'27 📚
+            <strong>[10/26]</strong> 🆕 Organizing <a href="https://biomedicalimaging.org/2027/tutorials/">Conformal-MIA</a>, Tutorial hosted by ISBI'27 📚
         </li> 
         <li>
             <strong>[10/26]</strong> 🆕 Best paper award at the 4th MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
