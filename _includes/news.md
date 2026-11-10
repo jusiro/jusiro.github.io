@@ -11,10 +11,10 @@
             <strong>[10/26]</strong> 🆕 Best paper award at the 4th MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
         </li> 
         <li>
-            <strong>[09/26]</strong> 🆕 2 papers accepted at <ins>NeurIPS</ins>'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[09/26]</strong> 🆕 2 papers accepted at <ins>NeurIPS</ins>! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[06/26]</strong> 1 paper accepted at <ins>MICCAI</ins>'26! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[06/26]</strong> 1 paper accepted at <ins>MICCAI</ins>! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[03/26]</strong> Serving as Area Chair at MICCAI 🧑🏻‍⚖️
@@ -26,25 +26,25 @@
             <strong>[07/25]</strong> Co-organizing <a href="https://sites.google.com/view/miccai-2025-tutorial">FMLLM</a> tutorial on medical foundation models 📚
         </li>
         <li>
-            <strong>[06/25]</strong> 3 papers accepted at <ins>MICCAI</ins>'25  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
+            <strong>[06/25]</strong> 3 papers accepted at <ins>MICCAI</ins>  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>
         </li>
         <li>
             <strong>[04/25]</strong> 1 paper on volumetric foundation models pre-training published at <ins>MedIA</ins> <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
         </li>
         <li>
-            <strong>[02/25]</strong> 1 work on conformal prediction for VLMs accepted at <ins>CVPR</ins>'25!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[02/25]</strong> 1 work on conformal prediction for VLMs accepted at <ins>CVPR</ins>!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
-            <strong>[02/25]</strong> 2 papers accepted at <ins>IPMI</ins>'25 on medical VLMs! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[02/25]</strong> 2 papers accepted at <ins>IPMI</ins> on medical VLMs! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li>
         <li>
             <strong>[01/25]</strong> FLAIR, the first VLM for fundus images, published at <ins>MedIA</ins> <span style="display: inline-block; white-space: nowrap;"> &#128220; </span>.
         </li> 
         <li>
-            <strong>[05/24]</strong> 2 papers accepted at <ins>MICCAI</ins>'24! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[05/24]</strong> 2 papers accepted at <ins>MICCAI</ins>! <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li> 
         <li>
-            <strong>[03/24]</strong> 1 work on few-shot CLIP adaptation accepted at <ins>CVPR</ins>'24!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
+            <strong>[03/24]</strong> 1 work on few-shot CLIP adaptation accepted at <ins>CVPR</ins>!  <span style="display: inline-block; white-space: nowrap;"> &#127881; </span>.
         </li> 
         <li>
             <strong>[08/23]</strong> Best paper award at the 1st MICCAI Workshop on foundation models! <span style="display: inline-block; white-space: nowrap;"> &#127941; </span>
